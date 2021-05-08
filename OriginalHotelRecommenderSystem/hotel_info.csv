@@ -1,0 +1,885 @@
+name,address,amenities1,amenities2,amenities3,amenities4,amenities5,amenities6,amenities7,amenities8,amenities9,amenities10,rooms1,rooms2,rooms3,rooms4,rooms5,rooms6,price,rating,numReviews,lat,lon
+Blakehill House,Cong Ireland,1,2,,,,,,,,,Unknown,,,,,,69,5,2 reviews,53.5414206,-9.2873469
+Drumhouse Lodge,"Knock House Rd, Knock Ireland",1,2,,,,,,,,,Unknown,,,,,, Available Upon Request,3.5,4 reviews,53.79124155,-8.91419229
+Ballynona House,Midleton Ireland,1,2,,,,,,,,,Unknown,,,,,,50,5,5 reviews,51.9142741,-8.1700962
+Annaswood B&B,"Cahir Scartana, Cahir Ireland",1,2,,,,,,,,,Unknown,,,,,,75,4.5,7 reviews,52.37796,-7.922561
+Johnnys 12 House,"Barrack Hill, Buncrana Ireland",1,2,,,,,,,,,Unknown,,,,,, Available Upon Request,5,4 reviews,55.1194648,-7.4555276
+Farnham House,"Farnham House 38 Farnham Road, Cavan 1226 Ireland",1,2,,,,,,,,,Unknown,,,,,,85,5,1 review,53.998102,-7.377416
+Mccauls Bar & Guesthouse,"10 Bridge Street, Cavan Ireland",1,,,,,,,,,,Unknown,,,,,, Available Upon Request,3.5,18 reviews,53.9894727,-7.3622845
+Ardrahan House,"Ownagarry, Killorglin Ireland",2,,,,,,,,,,Unknown,,,,,, Available Upon Request,5,1 review,52.106227,-9.789865
+Carrick House B&B,"Carricknagore, Killybegs Ireland",2,,,,,,,,,,Unknown,,,,,, Available Upon Request,5,6 reviews,54.649848,-8.412672
+Beal Na Mara Apartments,Ballyshannon Ireland,2,,,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,3 reviews,54.501979,-8.1897659
+Coill Maher Lake House,"03 Coill Maher, Mullans, Ballyshannon Ireland",2,,,,,,,,,,Unknown,,,,,,129,3.5,4 reviews,54.501152,-8.187528
+Hillcrest Bed And Breakfast,"Cruit Island, Kincasslagh Ireland",2,,,,,,,,,,Unknown,,,,,, Available Upon Request,Unknown,Unknown,53.582062,-8.045371
+Lag Dubh,"Cruit Island, Kincasslagh Ireland",2,,,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,2 reviews,53.582062,-8.045371
+Ard na Greine B&B,Cahir Ireland,2,,,,,,,,,,Unknown,,,,,, Available Upon Request,4,13 reviews,52.3749129,-7.9251412
+Abbey View House,"Abbey View Strand Street, Youghal Ireland",2,,,,,,,,,,Unknown,,,,,,95,4.5,5 reviews,51.944628,-7.849732
+Grangeview House B&B,Monaghan Ireland,2,,,,,,,,,,Unknown,,,,,,80,5,1 review,54.1610664,-6.946364848
+Hotwell House,"Ballinakill, Enfield Ireland",2,,,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,4 reviews,53.413848,-6.830831
+Brookville Manor,"Brookville Manor Lisanisk Coolderry, Carrickmacross Ireland",2,,,,,,,,,,Unknown,,,,,,85,5,10 reviews,53.977975,-6.717694
+Townley Hall Apartments,Slane Ireland,2,,,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,5 reviews,53.7090675,-6.5426177
+Old Parochial House,"Knockbridge, Dundalk Ireland",2,,,,,,,,,,Unknown,,,,,,80,4,1 review,53.9710631,-6.4867827
+Cunninghams Guesthouse,"Number 9B Dublin Street Belfry Court, Kildare Ireland",19,27,38,56,55,78, Hair dryer,,,,Unknown,,,,,,80,5,10 reviews,53.198018,-6.842829
+Halpins Town House,"S/N Bachelors Walk Wicklow Town, Leitrin Lopte, Wicklow Ireland",18,3,1,12,8,60,84,95,2,13,200,,,,,, Available Upon Request,4.5,21 reviews,52.984944,-6.340102
+Railway House Bed and Breakfast,"Dominick Street, Mullingar Ireland",4,28,13,,,,,,,,Unknown,,,,,, Available Upon Request,4,15 reviews,53.5244476,-7.3467005
+Cherrytree House B&B,"Off the R238, Moville F93 KOWH Ireland",4,,,,,,,,,,Unknown,,,,,,80,5,6 reviews,55.188571,-7.045251
+Inishbofin House Hotel,"Connemara, Inishbofin H91 RK71 Ireland",3,1,12,43,35,61,65,94,,,203,201,200,,,,148,4,452 reviews,53.500049,-9.75018
+The Loft Bar and B & B,"The Loft Pearse Street, Ballina Ireland",3,1,14,44,80,58,81,100,,,201,204,,,,,60,4.5,67 reviews,54.1138658,-9.1543416
+Bounty Bar Accommodation,"Bridge Street Trim Co Meath, Trim Ireland",3,1,14,8,30,58,13,87,,,201,204,,,,,70,3.5,51 reviews,53.5560717,-6.7910359
+Cill Chiarain Bed & Breakfast,"Listowel Road, Ballybunion Ireland",3,1,39,8,35,2,58,81,,,201,,,,,, Available Upon Request,4.5,5 reviews,52.5113175,-9.6738174
+Crockets on the Quay,Ballina F26 Y3E9 Ireland,3,1,34,2,69,,,,,,Unknown,,,,,, Available Upon Request,3,5 reviews,51.712339,-8.627699
+Take 2 Restaurant and Guest House,"Earl Street, Longford Ireland",3,1,34,2,69,,,,,,Unknown,,,,,, Available Upon Request,5,2 reviews,53.7256453,-7.7986566
+Woodlands Bed & Breakfast,"Killomoran, Gort Ireland",3,4,8,45,81,13,87,99,,,Unknown,,,,,, Available Upon Request,5,20 reviews,53.068269,-8.821343
+Failte B&B Claremorris,"Failte Ballindine Road Ard Clar, Claremorris Ireland",3,2,,,,,,,,,Unknown,,,,,, Available Upon Request,5,12 reviews,53.71667,-9
+Garmisch,"Loughgeorge, Claregalway Ireland",3,2,,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,11 reviews,53.35588475,-8.930193048
+Kilronan Hostel,"Kilronan Village, Inis Mor, Province of Connacht H91 K7HW Ireland",3,4,12,14,60,84,95,85,30,79,203,201,200,,,, Available Upon Request,4.5,367 reviews,53.990046,-6.399705
+An Creagan B&B,"An Creagan Baile Thiar, Province of Connacht Ireland",3,4,12,2,28,58,13,92,,,201,204,,,,, Available Upon Request,4.5,19 reviews,53.242606,-9.319618
+Dilis Go Brath,"8 Tivoli Terrace, Tramore Ireland",3,8,32,35,2,58,13,87,,,Unknown,,,,,,120,5,12 reviews,52.1651653,-7.145948054
+The Farnham Arms Hotel,"Main Street, Cavan Ireland",3,3,1,14,2,73,58, Currency exchange,,,201,200,,,,,148,3.5,157 reviews,53.9916334,-7.3600623
+Kilkee Town House,"Corneil 2 Erin Street, Kilkee Ireland",3,3,2,,,,,,,,Unknown,,,,,,90,4,28 reviews,52.680735,-9.646008
+Dun Mhuire,"Dun Mhuire 5 Quinns Row Lannagh Rd, Castlebar Ireland",3,3,2,,,,,,,,Unknown,,,,,, Available Upon Request,5,17 reviews,53.849621,-9.308731
+Brae House,"Brae House Front Street, Ardara Ireland",3,3,13,,,,,,,,201,,,,,, Available Upon Request,4.5,56 reviews,54.762995,-8.411545
+Cathedral View Apartments,"4 Keon_s Terrace, Longford N39 Ireland",3,3,,,,,,,,,Unknown,,,,,, Available Upon Request,5,17 reviews,53.673466,-7.752625
+Moate House,"Rathmore, Naas Ireland",3,9,1,31,35,2,79,58,,,201,200,,,,, Available Upon Request,5,20 reviews,53.29336945,-6.661106604
+The Old Borough Hotel Wetherspoon,"72 Main Street, Swords Ireland",3,21,,,,,,,,,Unknown,,,,,, Available Upon Request,3.5,15 reviews,53.458978,-6.2200635
+The Carraig Hotel,"Main Street, Carrick-on-Suir Ireland",3,3,1,35,61,65,13,99,,,201,200,,,,,120,4.5,157 reviews,52.349167,-7.413056
+Kennedy Boutique Hotel,"19 The Quay, New Ross Y34 P972 Ireland",3,3,1,2,40,65,13,99,,,201,204,,,,, Available Upon Request,4,118 reviews,52.664611,-8.629167
+The Schooner Tavern,"Main Street, Ballycotton Ireland",3,3,1,21,75,72,13,,,,201,200,,,,,95,4.5,59 reviews,51.8295455,-8.0142264
+Tubridy House B&B,"Cooraclare, Kilrush Ireland",3,3,1,21,2,83,13,,,,201,205,,,,, Available Upon Request,4.5,12 reviews,52.640415,-9.485395
+Harty Costello Town House,"Main Street, Ballybunion Ireland",3,3,1,21,13,47,,,,,201,200,,,,, Available Upon Request,5,43 reviews,52.5098128,-9.6714594
+Ewings Bar & Accomodation,"Haymarket, Carlow Ireland",3,3,1,34,13,,,,,,201,200,,,,,86,3,31 reviews,52.725161,-6.843704
+Staghall Old School Bed & Breakfast,"Drumacon Belturbet, Cavan Ireland",3,3,2,57,,,,,,,Unknown,,,,,,80,4.5,2 reviews,54.0983409,-7.471683807
+Sive Hostel,"15 Newmarket Street, Cahersiveen Ireland",3,3,4,58,13,54,47,57,,,Unknown,,,,,,70,4.5,91 reviews,51.94648,-10.229218
+The Central,"10 Lower Main Street, Buncrana Ireland",3,3,4,1,2,13,,,,,201,,,,,,72,4.5,30 reviews,55.1330929,-7.4528278
+Annie Mays B&B,"11 Bridge St, Skibbereen Ireland",3,3,4,1,21,2,13,,,,Unknown,,,,,,100,4,54 reviews,51.5498998,-9.2709338
+Lahinch Hostel,"Church Street, Lahinch Ireland",3,3,4,12,79,58,13,57,,,201,,,,,, Available Upon Request,4,102 reviews,53.401973,-6.670701
+Hotel Inis Oirr,"Lurgan Village, Province of Connacht Ireland",3,3,4,44,62,58,13,57,,,Unknown,,,,,, Available Upon Request,4,163 reviews,54.31472,-8.19639
+Findus House,"Findus House Findus House Findus House Ballyvoige, Macroom Ireland",3,3,4,13,47,,,,,,201,200,,,,, Available Upon Request,4.5,65 reviews,51.908784,-8.964574
+McMahon House,"McMahons 38 Church Street, Listowel Ireland",3,3,4,13,,,,,,,Unknown,,,,,, Available Upon Request,3,33 reviews,52.446743,-9.484118
+Clai Ban,"Kilronan, Province of Connacht Ireland",3,3,32,13,47,,,,,,201,200,,,,, Available Upon Request,4,153 reviews,53.1202153,-9.6694516
+PREMIER204 Dublin Sandyford,"The Forum, Ballymoss Road Sandyford Business Park, Sandyford 18 Ireland",3,3,13,59,82,96,,,,,201,204,,,,, Available Upon Request,4,80 reviews,53.2773656,-6.2116525
+Dungarvan Hostel (Arus Brugha),"Davitts Quay, Dungarvan X35 FW30 Ireland",3,3,21,4,83,13,82,,,,201,200,,,,, Available Upon Request,4.5,12 reviews,52.08963,-7.616536
+Desmond House Kinsale,"Desmond House 42 Cork Street, Kinsale Ireland",3,3,23,32,13,92,,,,,201,,,,,, Available Upon Request,5,648 reviews,51.706919,-8.524901
+Nephin House B&B,"Quinns Row off Lannagh Rd, Castlebar Ireland",3,3,,,,,,,,,Unknown,,,,,, Available Upon Request,5,5 reviews,53.859307,-9.293848
+Bealaha House,"Bealaha Carrowblough Beg, Doonbeg Ireland",3,,,,,,,,,,Unknown,,,,,,95,5,12 reviews,51.935299,-9.048758
+The Bridge Tavern,"Bridge Street, Wicklow Ireland",3,3,1,21,34,13,,,,,Unknown,,,,,,130,3.5,107 reviews,52.7979221,-6.1526892
+Devard,"Westport Road, Castlebar Ireland",3,3,2,,,,,,,,Unknown,,,,,, Available Upon Request,4,20 reviews,53.8486692,-9.3091893
+Burren Lodge,"Old Dublin Road Creggan Upper, Athlone Ireland",3,3,2,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,16 reviews,53.428516,-7.940076
+Glendalough International Youth Hostel,"The Lodge, Glendalough Village Ireland",3,3,23,60,84,95,62,58,13,57,201,200,,,,, Available Upon Request,3.5,176 reviews,53.08069065,-6.326671543
+San Marino Bed and Breakfast,"San Marino 40 Carrickhill Road, Portmarnock Ireland",3,3,,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,19 reviews,53.377397,-6.262779
+The Royal Hotel and Merrill Leisure Club,"Main Street, Bray Ireland",3,9,11,1,75,63,61,94,,,202,201,204,200,,,107,3,"1,518 reviews",53.2013678,-6.1107832
+River Island Hotel,"Lower Main Street, Castleisland Ireland",3,3,1,21,2,13,99,57,,,201,,,,,,80,4,145 reviews,52.22822,-9.464046
+Markree Castle,Collooney F91 AE81 Ireland,5,1,35,61,65,13,99,57,,,202,201,204,200,,,250,5,111 reviews,54.181925,-8.488454
+Burren Atlantic Hotel & Holiday Village,"R477, Ballyvaughan Ireland",5,1,35,62,58,13,87,,,,202,201,,,,, Available Upon Request,2.5,83 reviews,53.1170524,-9.152079
+Creggan Court,"Kilmartin Centre Dublin Road, Athlone Ireland",5,1,30,63,62,13,87,57,,,201,,,,,,96,4,392 reviews,53.428516,-7.940076
+The Perrin Inn,Glengarriff Ireland,5,1,21,53,14,72,44,30,,,201,,,,,, Available Upon Request,2.5,132 reviews,51.7501967,-9.5499762
+Crannys B&B,"Rosslare Harbour, Rosslare Wexford Ireland",5,1,23,8,33,58,13,,,,201,200,,,,, Available Upon Request,5,137 reviews,52.2527565,-6.3351365
+Belmullet Coast Guard Station Pods,"Claggan Island, Bunnahowen, Belmullet Ireland",5,12,2,30,13,,,,,,201,200,,,,, Available Upon Request,5,46 reviews,54.219676,-9.986727
+Aaron House,"Kinnitty Road, Birr Ireland",5,14,40,13,47,92,,,,,Unknown,,,,,, Available Upon Request,5,42 reviews,53.0977181,-7.7204515
+Little Flower Lodge,"Drum Hotel Avenue, Knock Ireland",5,2,13,,,,,,,,Unknown,,,,,, Available Upon Request,3.5,4 reviews,53.797371,-8.906427704
+The Farm Cottages,"Bridgetown Castletownroche, Mallow Ireland",5,2,,,,,,,,,Unknown,,,,,, Available Upon Request,5,22 reviews,52.137078,-8.648504
+Carlingford Holiday Homes,"Tholsel Street, Carlingford Ireland",5,2,,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,13 reviews,54.0398638,-6.1854608
+Rossroe Lodge B&B,"Rossroe, Cashel H91 V20K Ireland",5,18,3,4,32,13,47,57,,,201,200,,,,, Available Upon Request,5,225 reviews,53.400568,-9.863933
+Sea Lodge B & B,"Gearhameen, Durrus Ireland",5,4,14,35,2,28,79,81,,,201,200,,,,, Available Upon Request,4.5,48 reviews,51.6269826,-9.5531924
+Strand End House,"on Ring Of Kerry (N70) & Kerry Way, Cahersiveen Ireland",5,4,14,45,85,58,13,100,,,201,204,200,,,,80,5,126 reviews,51.94648,-10.229218
+Ballyderrin House,"Ballyderrin House Shillelagh Road, Tullow Ireland",5,4,8,33,35,13,89,92,,,Unknown,,,,,, Available Upon Request,4,63 reviews,52.802488,-6.742014
+Eaglehill B&B,"Eaglehill Suncroft, Kildare Ireland",5,4,,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,29 reviews,53.198018,-6.842829
+Kemar House,Belmullet Ireland,5,3,41,12,14,35,30,13,,,Unknown,,,,,,90,4,7 reviews,54.22411,-9.9872173
+Fairlawns Bed & Breakfast,"Fairlawns Dublin Road, Dundalk Ireland",5,3,41,8,85,58,13,92,,,201,200,,,,, Available Upon Request,5,129 reviews,54.000337,-6.398438
+Ivy Tower Hotel,"New Antrim Street, Castlebar Ireland",5,3,1,35,2,40,63,83,,,201,,,,,,75,4,11 reviews,53.860067,-9.2978654
+TF Royal Hotel and Theatre,"Westport Road, Castlebar Ireland",5,3,1,35,2,63,62,83,,,201,200,,,,,104,4,61 reviews,53.8486692,-9.3091893
+Ballyvolane House,"Castlelyons Co. Cork, Fermoy Ireland",5,3,1,64,14,97,35,30,,,Mountain view,201,204,200,,, Available Upon Request,5,163 reviews,52.0889073,-8.2338663
+Tinakilly Country House Hotel & Restaurant,"Main Street Co Wicklow, Rathnew, Wicklow Ireland",5,3,1,65,62,58,81,87,,,203,202,201,204,200,, Available Upon Request,4,902 reviews,52.9947561,-6.0810882
+"Red Cliff Lodge, Restaurant &204","Dough, Spanish Point V95 X9T7 Ireland",5,3,1,12,35,85,65,13,,,203,201,204,,,, Available Upon Request,5,135 reviews,51.466943,-9.765495
+Diamond Coast Hotel,"Bartragh, Enniscrone F26 E9F9 Ireland",5,3,1,12,35,98,71,63,,,203,202,201,204,200,, Available Upon Request,4.5,"1,500 reviews",53.52544,-9.258039
+Arnolds Hotel,Dunfanaghy Ireland,5,3,1,12,14,65,62,58,,,203,201,200,,,, Available Upon Request,4.5,608 reviews,55.1833879,-7.9717773
+The Bayview Hotel,Ballycotton P25 KP59 Ireland,5,3,1,12,14,2,62,94,,,203,201,204,200,,, Available Upon Request,4.5,515 reviews,51.83333,-8.01611
+Majestic Hotel,"Majestic Hotel Lower Branch Road, Tramore X91 WC1Y Ireland",5,3,1,12,14,61,65,58,,,202,201,204,200,,,210,4,394 reviews,52.163189,-7.148529
+Reddans of Bettystown,"Coast Road Neptune 12, Bettystown Ireland",5,3,1,12,66,2,13,99,,,201,200,,,,,89,4.5,30 reviews,53.365725,-9.874687
+Walter Raleigh Hotel,"OBriens Place, Youghal Ireland",5,3,1,12,43,65,62,58,,,203,202,201,204,200,,170,4.5,470 reviews,51.9455611,-7.8428379
+Channel View,"The Abbey, Ballyshannon Ireland",5,3,1,12,8,2,13,89,,,Unknown,,,,,,90,4.5,6 reviews,54.5080325,-8.2029524
+Aran Islands Hotel,"Kilronan, Province of Connacht Ireland",5,3,1,12,32,40,65,62,,,203,202,201,200,,, Available Upon Request,4.5,583 reviews,53.1202153,-9.6694516
+Caisleain Oir Hotel,"Caisleain Oir Main Street The Wild Atlantic Way, Annagry F94 WY03 Ireland",5,3,1,12,32,35,40,61,,,203,202,201,200,,, Available Upon Request,5,617 reviews,55.020892,-8.325331
+White Sands Hotel,"Coast Road, Portmarnock D13 W7X2 Ireland",5,3,1,12,32,2,73,61,,,202,201,,,,, Available Upon Request,3.5,495 reviews,53.42883,-6.132779
+The Harbour Inn,"Derry Road Ludden, Buncrana F93 V57X Ireland",5,3,1,12,32,62,58,13,,,201,,,,,,90,4.5,416 reviews,55.12704,-7.45686
+Rathbaun Hotel,"Main Street, Lisdoonvarna Ireland",5,3,1,14,35,73,58, Currency exchange,,,201,200,,,,, Available Upon Request,4,199 reviews,53.0310919,-9.2893857
+Commercial and Tourist Hotel,"High Street, Ballinamore Ireland",5,3,1,14,51,85,2,62,,,201,,,,,, Available Upon Request,4,48 reviews,54.0535422,-7.7984144
+Innwood House,"Killimer Road, Kilrush Ireland",5,3,1,14,51,79,58,57,,,201,,,,,, Available Upon Request,5,24 reviews,52.640415,-9.485395
+Nesbitt Arms Boutique Hotel,"The Diamond, Ardara Ireland",5,3,1,14,51,61,65,58,,,202,201,200,,,, Available Upon Request,4,493 reviews,54.7619869,-8.4137664
+Connemara National Park Hostel,"Connemara Loop, Letterfrack Ireland",5,3,1,14,51,30,94,58,,,201,200,,,,,75,4,206 reviews,53.5526929,-9.947929016
+McGrorys Hotel Culdaff,"Culdaff House Inishowen, Culdaff Ireland",5,3,1,14,44,73,65,13,,,201,200,,,,,120,4.5,242 reviews,55.28640425,-7.157899901
+The Chester Beatty Inn,"Main Street, Ashford, Wicklow A67 VK09 Ireland",5,3,1,14,36,35,40,62,,,201,200,,,,,150,4.5,191 reviews,53.060474,-6.698879
+Silken Thomas Accommodation,"The Square, Kildare Ireland",5,3,1,14,32,73,58,81,,,201,,,,,,113,4.5,637 reviews,53.3330626,-6.531335623
+Rosleague Manor Hotel,Letterfrack Ireland,5,3,1,14,32,30,65,58,,,203,201,204,200,,, Available Upon Request,4.5,444 reviews,53.553524,-9.9483002
+Clanard Court Hotel,"Dublin Road, Athy Ireland",5,3,1,14,35, Indoor play area for children,63,61,,,202,201,204,200,,, Available Upon Request,4.5,828 reviews,52.9931551,-6.9747075
+Grangegeeth Inn,"Slane Grangegeeth, Slane C15Y234 Ireland",5,3,1,14,36,60,84,95,85,80,200,,,,,, Available Upon Request,3.5,15 reviews,53.702783,-6.491847
+Luttrellstown Castle Resort,Castleknock D15 RH92 Ireland,5,3,1,14,8,2,30,73,,,202,204,200,,,, Available Upon Request,5,103 reviews,53.37483,-6.36336
+Monaghans Harbour Hotel,"Limerick Road, Naas Ireland",5,3,1,66,8,35,2,83,,,201,205,,,,, Available Upon Request,3,73 reviews,53.2120712,-6.6931998
+Racket Hall Country House Hotel,"Dublin Road, Roscrea Ireland",5,3,1,63,61,58,13,57,,,201,204,200,,,, Available Upon Request,4,540 reviews,52.9569855,-7.7878337
+Hotel Kilmore,"Dublin Road, Cavan Ireland",5,3,1,63,61,81,13,87,,,202,201,204,200,,, Available Upon Request,4,441 reviews,53.985512,-7.359568
+Skellys Guesthouse,"Main Street, Ballymahon Ireland",5,3,1,51,72,30,62,79,,,201,,,,,, Available Upon Request,5,37 reviews,53.67307,-7.990055
+Nevins Newfield Inn,"Newfield Westport, Co Mayo, Mulranny Ireland",5,3,1,51,43,35,61,62,,,201,200,,,,,100,4.5,96 reviews,53.795998,-9.509922
+Barrys Bed and Breakfast,"2 Reenrour West, Bantry Ireland",5,3,1,51,8,2,30,58,,,Unknown,,,,,, Available Upon Request,4.5,12 reviews,51.68389145,-9.454010677
+Knock House Hotel,"Knock House Hotel Knock House Hotel Saint Marthas Ballyhaunis Road, Knock Ireland",5,3,1,2,61,65,58, Chapel / shrine,,,201,,,,,, Available Upon Request,4,223 reviews,53.67544,-8.94646
+Glashaus Hotel,"Belgard Square West, Tallaght 24 Ireland",5,3,1,2,61,62,81,13,,,201,,,,,,85,4.5,"1,018 reviews",53.2868363,-6.3749496
+Drumhouse B&B,"Knockhouse Road, Knock Ireland",5,3,1,2,69,58,13,87,,,200,,,,,, Available Upon Request,5,20 reviews,52.26306,-7.155988
+The Glebe House,"The Glebe, Ennistymon V95 Y4AT Ireland",5,3,1,2,13,,,,,,Unknown,,,,,, Available Upon Request,5,12 reviews,52.939188,-9.291955
+Ard Ri House Hotel,"Milltown Road, Tuam H54 V267 Ireland",5,3,1,61,65,58,81,87,,,202,201,204,200,,,129,4,321 reviews,53.309183,-6.249771
+Mulroy Woods Hotel,"Letterkenny Road, Milford Ireland",5,3,1,43,32,69,71,61,,,202,201,200,,,, Available Upon Request,4,568 reviews,55.082252,-7.686410767
+Longcourt House Hotel,"St. Marys Road, Newcastle West Ireland",5,3,1,44,35,63,61,79,,,202,201,204,200,,, Available Upon Request,4,216 reviews,53.27753115,-9.063638692
+Cliffs of Moher Hotel,"Liscannor Community Centre Main Street 5 minutes from Cliffs of Moher Visitor Center, Liscannor V95 K59V Ireland",5,3,1,44,2,61,65,83,,,203,201,200,,,, Available Upon Request,4.5,255 reviews,52.971892,-9.425879
+Villa Rose Hotel & Spa,"Villa Rose Hotel Main Street, Ballybofey F93 C2CF Ireland",5,3,1,44,61,65,94,58,,,202,201,204,200,,,109,4.5,"1,627 reviews",52.263502,-9.700756
+Westcourt Hotel,"West Street, Drogheda 041 Ireland",5,3,1,44,70,63,62,58,,,202,201,200,,,, Available Upon Request,4,468 reviews,53.7150405,-6.3533272
+Woodford Dolmen Hotel,"Kilkenny Road, Carlow Ireland",5,3,1,45,35,71,63,61,,,202,201,204,200,,,88,4,"1,015 reviews",52.8275393,-6.9373557
+Lissadell B&B,"Lisadell Railway Road, Buncrana Ireland",5,3,1,8,60,84,95,58, Convenience store,57,Unknown,,,,,,85,4.5,12 reviews,55.140368,-7.450402
+Lisdovogue House,"Knockmore, Ballina Ireland",5,3,1,8,32,35,2,13,,,Unknown,,,,,, Available Upon Request,5,47 reviews,54.018889,-9.175278
+Lynchs Townhouse,"Arden Road, Tullamore Ireland",5,3,1,8,32,33,79,13,,,200,,,,,,63,5,1 review,53.2859101,-7.487536
+Springfield B & B,"N25 St Patricks Road, Rosslare Harbour, Rosslare Ireland",5,3,1,8,33,2,13,89,,,Unknown,,,,,, Available Upon Request,4.5,30 reviews,52.269932,-6.390259
+OGradys Bar and B&B,"Upper Bridge Street, Killorglin Ireland",5,3,1,8,62,13,92,,,,Unknown,,,,,, Available Upon Request,5,2 reviews,52.1067757,-9.78746
+Kirbys Lanterns Hotel,"Coast Road, Tarbert Ireland",5,3,1,8,86,2,69,58,,,201,,,,,, Available Upon Request,3.5,50 reviews,53.365725,-9.874687
+Park Hotel Kiltimagh,"Swinford Road, Kiltimagh Ireland",5,3,1,69,71,63,61,58,,,202,201,204,200,,,104,4,364 reviews,53.8498429,-8.9993139
+The Dales,Gorey Ireland,5,3,1,32,35,58,13,,,,200,,,,,,120,Unknown,Unknown,52.676135,-6.292752
+Long Acre Lodge,"Grange John Longs Bar, Carlingford Ireland",5,3,1,32,75,2, Chapel / shrine,13,,,200,,,,,,400,5,4 reviews,54.0083842,-6.1811011
+Carnegie Court Hotel Swords,"North Street, Swords K67 W4A9 Ireland",5,3,1,32,2,63,65, Currency exchange,,,202,201,204,200,,,99,4,352 reviews,53.461122,-6.218649
+Longueville House Hotel,"Killarney road, Mallow Ireland",5,3,1,32,33,35,60,84,95,65,202,201,204,200,,, Available Upon Request,4.5,297 reviews,52.1282027,-8.6568923
+Radharc Arainn B&B,"Salahoona, Spiddal Ireland",5,3,1,32,33,35,2,58,,,201,200,205,,,,80,4.5,36 reviews,53.243911,-9.305344
+The Old Imperial Hotel,"The Old Imperial Hotel 27 N North Main Street, Youghal Ireland",5,3,1,32,33,62,58,81,,,201,,,,,, Available Upon Request,4.5,475 reviews,51.95,-7.85056
+Kettles Country House Hotel,"Lispopple Cross, Swords Ireland",5,3,1,33,35,40,65,62,,,202,201,204,200,,,99,4,355 reviews,53.457264,-6.228042
+Kildare House Hotel,"Dublin St, Kildare Ireland",5,3,1,33,2,62,13,89,,,202,201,,,,,111,3.5,307 reviews,54.5903173,-5.9099508
+The Wyatt Hotel,"The Octagon, Westport Ireland",5,3,1,33,44,35,85,30,,,202,201,204,200,,,150,4.5,"1,581 reviews",53.7993861,-9.5247746
+Westenra Arms Hotel,"The Diamond, Monaghan Ireland",5,3,1,33,44,35,65,62,,,202,201,204,200,,, Available Upon Request,4,292 reviews,54.1791569,-7.2318438
+Ashbourne House Hotel,"Frederick Street, Ashbourne Ireland",5,3,1,33,44,61,65,58,,,202,201,,,,,98,3.5,344 reviews,53.5132714,-6.4007157
+Listowel Arms Hotel,"The Square, Listowel Ireland",5,3,1,70,65,62,94,58,,,202,201,200,,,,150,4.5,506 reviews,52.4472298,-9.4846811
+Fitzpatricks Tavern and Hotel,"Loch Gowna Main Street, Cavan Ireland",5,3,1,21,44,45,58,13,,,200,,,,,,80,4,5 reviews,53.8766657,-7.534208953
+Bit & Bridle Inn,"Limerick Junction, Tipperary Ireland",5,3,1,21,34,13,,,,,201,,,,,, Available Upon Request,4,54 reviews,52.5019872,-8.1988652
+Marengo Guest Accommodation,"Ballyhea, Charleville Ireland",5,3,1,23,8,2,13,,,,Unknown,,,,,, Available Upon Request,4.5,10 reviews,52.354806,-8.684538
+Maldron Hotel Newlands Cross,"Bushloaf 1A Naas Road Newlands Cross, Clondalkin 22 Ireland",5,3,1,71,63,61,58,81,,,201,200,,,,, Available Upon Request,3.5,"1,204 reviews",53.317744,-6.367551
+Shamrock Lodge Hotel Athlone,"Clonown Road, Athlone 0000 Ireland",5,3,1,71,63,61, ,58,,,202,201,204,200,,, Available Upon Request,4,704 reviews,53.3682596,-7.9411647
+Abberley Court,"Belgard Road, Tallaght 24 Ireland",5,3,1,31,65,83,57,82,,,201,,,,,, Available Upon Request,4,170 reviews,53.3118209,-6.3899103
+The Mill,"Milltown, Ballina Ireland",5,3,12,32,35,40,79,58,,,200,,,,,, Available Upon Request,5,1 review,54.11291,-9.150075
+Kilcummin House,Castlegregory Ireland,5,3,12,30,58,13,92,,,,Unknown,,,,,, Available Upon Request,4,4 reviews,52.2556303,-10.0215862
+An Moinear,Province of Connacht Ireland,5,3,12,31,60,84,95,94,13,89,Unknown,,,,,, Available Upon Request,5,22 reviews,54.0546008,-7.8072475
+Creevy Holiday Cottages,"Cloughboile Creevy, Ballyshannon Ireland",5,3,14,66,35,30,62,79,,,Unknown,,,,,, Available Upon Request,5,38 reviews,54.006119,-6.73533
+Slane Farm Hostel,"Harlinstown House, Slane Ireland",5,3,14,36,35,60,84,95,30,79,200,,,,,, Available Upon Request,4.5,226 reviews,53.7180639,-6.5754562
+Ballyhoura Luxury Hostel,"West End Kilfinane, Limerick V35 KX59 Ireland",5,3,14,32,62,79,13,57,,,201,200,,,,,236,5,485 reviews,52.528499,-8.762755
+Ceol Na Mara,"Ceol Na Mara Main Street, Enniscrone F26 D2X8 Ireland",5,3,4,12,14,13,47,100,,,203,201,200,,,,85,5,260 reviews,54.212226,-9.094988
+Ashgrove Bed & Breakfast,"Ballykippogue Wicklow Town, Kilbride, Blessington Ireland",5,3,4,8,2," ""Kids outdoor play equipment""",58,13,,,201,204,200,,,,85,3.5,59 reviews,53.0262,-6.287714
+Nonaim Lodge Angling & Accommodation,"Shannawagh Glann Road, Oughterard Ireland",5,3,4,32,45,2,13,47,,,Unknown,,,,,, Available Upon Request,5,77 reviews,53.427585,-9.324626
+Seawinds Bed and Breakfast,"Seawinds Main Street, Killybegs F94 V103 Ireland",5,3,4,32,45,13,89,100,,,203,201,200,,,,85,4.5,209 reviews,54.6371701,-8.441670645
+Kerry Ocean Lodge,"Main Road, Glenbeigh Ireland",5,3,4,32,30,58,13,99,,,201,200,,,,,95,4,127 reviews,52.0560543,-9.9394238
+Hyde Park,"Inch, Gorey Y25Y T38 Ireland",5,3,4,12,58,13,,,,,200,,,,,, Available Upon Request,5,2 reviews,52.737043,-6.217249
+Cashen Course House,"Golf Links, Ballybunion Ireland",5,3,4,14,32,35,40,94,,,202,201,204,200,,,105,5,84 reviews,52.840011,-8.997316
+Brookhaven House,"Newline Rd, Waterville Ireland",5,3,4,14,88,60,84,95,73,58,201,200,,,,,105,5,189 reviews,52.816217,-8.843146
+The Tides B&B,"Listowel Road, Ballybunion Ireland",5,3,4,45,35,58,13,92,,,201,204,200,,,, Available Upon Request,5,521 reviews,52.5113175,-9.6738174
+Clover Hill Lodge,"Low Road, Bunratty Ireland",5,3,2,58,13,,,,,,Unknown,,,,,,95,4.5,3 reviews,52.698429,-8.8112956
+Rathescar Grove,"Dunleer Lismanus, Drogheda Ireland",5,3,2,58,13,,,,,,Unknown,,,,,,88,4,9 reviews,53.716777,-6.346505
+Cedar Lodge,"Cedar Lodge Gort Prospect, Gort Ireland",5,3,2,13,89,47,,,,,Unknown,,,,,, Available Upon Request,4.5,6 reviews,53.06639,-8.81667
+Casamia Guesthouse,"West End, Bundoran Ireland",5,3,2,13,90,,,,,,Unknown,,,,,, Available Upon Request,5,5 reviews,54.47644,-8.294383
+Liam Ogs B&B,"Liam Ogs East End, Bundoran Ireland",5,3,2,13,,,,,,,Unknown,,,,,, Available Upon Request,4.5,7 reviews,54.47782,-8.28094
+Rathmore Country House & Holiday Village,"Rathmore, Ashford, Wicklow Ireland",5,3,42,12,14,35,85,40,,,200,,,,,, Available Upon Request,3,50 reviews,53.0521809,-6.0923696
+Evas,"11a Main Street, Cahersiveen Ireland",5,3,43,32,33,45,13,,,,200,,,,,, Available Upon Request,5,4 reviews,51.9459907,-10.2269111
+Riverview,Mullingar Ireland,5,3,45,13,89,90,,,,,Unknown,,,,,, Available Upon Request,4.5,2 reviews,53.5263035,-7.3415454
+Portmarnock Hotel and Golf Links,"Strand Road, Portmarnock Ireland",5,3,11,1,12,8,73,63,,,203,202,201,204,200,, Available Upon Request,4.5,"1,655 reviews",53.4258798,-6.13127
+The g Hotel & Spa,"Wellpark, Old Dublin Road, Galway H91 V0HR Ireland",5,3,11,1,60,84,95,73,63,61,202,201,204,,,, Available Upon Request,4,"3,609 reviews",53.621108,-10.207228
+"Radisson Blu St. Helens Hotel, Dublin","Stillorgan Road, Blackrock 4 Ireland",5,3,11,1,63,61,58,83,,,201,204,200,,,,124,4,"2,849 reviews",53.285943,-6.1947385
+Tara Hotel,"Main Street Donegal, Killybegs Ireland",5,3,11,1,45,62,58, Currency exchange,,,203,201,204,200,,, Available Upon Request,4.5,879 reviews,54.6366518,-8.4424309
+The d Hotel,"Scotch Hall Shopping Centre Marsh Road Scotch Hall Shopping Centre, Drogheda Ireland",5,3,11,1,71,63,61,58,,,202,201,204,200,,, Available Upon Request,4,"1,920 reviews",53.713998,-6.345807
+Clontarf Castle Hotel,"Castle Avenue Clontarf, Dublin D03 W5NO Ireland",5,3,11,1,71,63,61,58,,,202,201,204,200,,,215,4.5,"5,562 reviews",53.369027,-6.203328
+Harbour House Guest House,"Courtown Harbour, Gorey Ireland",5,3,11,14,66,94,58,81,,,Unknown,,,,,,95,4.5,51 reviews,52.64858,-6.228942733
+Decoy Country Cottages,"Decoy House Garlow Cross, Navan Ireland",5,3,11,14,66,35," ""Kids outdoor play equipment""",94,,,201,200,,,,, Available Upon Request,5,412 reviews,53.656849,-6.678985
+Lotties Villa,"Acre Beg, Loughrea Ireland",5,3,11,72,67, Adults only,13,57,,,Unknown,,,,,, Available Upon Request,4.5,2 reviews,53.1746796,-8.533094219
+Anglers Rest Hotel,"The Square, Headford Ireland",5,3,4,40,62,81,13,99,,,201,,,,,, Available Upon Request,4,101 reviews,53.4693403,-9.1070527
+Shirley Arms Hotel,"Main Street, Carrickmacross Ireland",5,3,4,35,63,65,13,99,,,201,200,,,,,138,4.5,300 reviews,53.9772947,-6.7195142
+The Maltings,"Castle St., Birr Ireland",5,3,4,35,2,79,58,57,,,201,200,,,,, Available Upon Request,4.5,122 reviews,53.0950982,-7.9138473
+deBarra Lodge,Rosscarbery Ireland,5,3,4,35,2,13,47,38,,,201,200,,,,, Available Upon Request,5,115 reviews,51.5775144,-9.0329284
+Moate Lodge,"Moate Lodge Off the R418 at the Norman Moate, Athy Ireland",5,3,4,35,30,58,13,100,,,201,200,,,,,80,5,156 reviews,52.990095,-6.980663
+Glendine Country House,Arthurstown Ireland,5,3,4,35,30,94,58,81,,,201,200,,,,,130,4.5,189 reviews,52.2419927,-6.9518356
+Weston House,"The Mills Macroom, Ballyvourney Ireland",5,3,4,35,30,13,99,57,,,201,204,200,,,, Available Upon Request,5,62 reviews,51.945817,-9.170482672
+Kennys Guesthouse,"Kennys Guest House Lucan Street, Castlebar F23 YY46 Ireland",5,3,4,58,13,100,92,38,,,201,200,,,,,90,4.5,148 reviews,53.857973,-9.296374
+Rodeen Country House,"Rodeen, Castletownbere Ireland",5,3,4,1,8,2,,,,,Unknown,,,,,, Available Upon Request,4,24 reviews,51.6575284,-9.8866406
+Barnavave Bed and Breakfast,"Ghan Road, Carlingford Ireland",5,3,4,1,8,13,,,,,Unknown,,,,,,99,4,61 reviews,54.0408862,-6.176644
+Dun Ard,"Na Ceithre Gaotha Ring, Dungarvan X35 WA00 Ireland",5,3,4,1,32,45,13,92,,,201,,,,,, Available Upon Request,5,426 reviews,52.090485,-7.627665
+Dun Ard,"Na Ceithre Gaotha Ring, Dungarvan X35 WA00 Ireland",5,3,4,1,32,45,13,92,,,201,,,,,, Available Upon Request,5,426 reviews,52.090485,-7.627665
+ONeills Bed and Breakfast,"Cliff Road, Ballyheigue Ireland",5,3,4,12,35,58,13,59,,,203,201,204,200,,,85,4.5,120 reviews,52.389431,-9.826867
+Rossbeigh 12 House B&B,"Rossbeigh, Glenbeigh Ireland",5,3,4,12,14,35," ""Kids outdoor play equipment""",40,,,Unknown,,,,,,100,4.5,83 reviews,52.05543915,-9.97512843
+Rolling Wave Guesthouse,"7 Bayview Terrace, Bundoran F94 Y277 Ireland",5,3,4,12,14,35,40,80,,,Unknown,,,,,,99,3.5,60 reviews,54.308001,-8.551056
+The Gaslight Inn Rossnowlagh,"Highfield, Rossnowlagh Ireland",5,3,4,12,14,35,69,62,,,Mountain view,203, Landmark view,201,200,, Available Upon Request,4.5,55 reviews,54.5543518,-8.2097755
+Fitzgeralds Hotel,"Main Street, Bundoran Ireland",5,3,4,12,14,2,58,83,,,201,200,,,,, Available Upon Request,4.5,174 reviews,54.4810049,-8.2722434
+The Strand Inn,"Dunmore East County, Dunmore East X91 E295 Ireland",5,3,4,12,14,94,79,58,,,203,202,201,200,,,140,4,431 reviews,53.61667,-8.73333
+Aran Walkers Lodge,"Gort Na gCapall, Province of Connacht Ireland",5,3,4,12,14,2,71,13,,,201,200,,,,, Available Upon Request,4.5,21 reviews,53.2892678,-8.998240645
+Ard Na Mara 12 Cottage,"Ard Na Mara 12 Cottage Ard Na Mara 12 Cottage Glassilaun, Lettergesh, Renvyle Ireland",5,3,4,12,67,60,84,95,58,13,201,200,,,,,99,5,80 reviews,53.614829,-9.874942
+Lake of Shadows Hotel,"Grianan Park, Buncrana F93 VY36 Ireland",5,3,4,12,68,35,69,61,,,201,200,,,,, Available Upon Request,4,163 reviews,55.132797,-7.458861
+TurfnSurf Lodge & Surf School,"Bayview Terrace 6 West End, Bundoran F94 TK53 Ireland",5,3,4,12,51,2,40,79,,,201,200,,,,,50,4.5,169 reviews,54.476406,-8.301322
+Haddington House,"9-12 Haddington Terrace, Dun Laoghaire A96 F2R9 Ireland",5,3,4,12,2,73,61,65,,,203,201,,,,,122,4,523 reviews,53.2920178,-6.1303418
+Mulranny House B&B,Mulranny Ireland,5,3,4,12,43,60,84,95,2,79,Mountain view,203,201,200,,,132,5,88 reviews,53.9074074,-9.7701109
+12 Hotel,Downings Ireland,5,3,4,12,44,60,84,95,62,58,201,200,,,,,150,4.5,487 reviews,52.8442775,-6.753923717
+Clifford House,"ROSSLARE HARBOUR Co. Wexford, Rosslare Ireland",5,3,4,12,45,35,58,13,,,203,201,204,200,,, Available Upon Request,5,237 reviews,52.2527565,-6.3351365
+Waterfront Hotel Dungloe,"Mill Road, Dungloe F94 W974 Ireland",5,3,4,12,45,2,63,61,,,203,202,201,204,200,,99,4.5,534 reviews,54.951921,-8.360545
+Dunmore House Hotel,"Muckross Cork, Clonakilty Ireland",5,3,4,12,8,35,30,63,,,203,202,201,204,200,,195,4.5,589 reviews,51.621724,-8.896393
+Gortnadiha Lodge,"Ring, Dungarvan Ireland",5,3,4,12,8,2,58,13,,,201,200,,,,, Available Upon Request,5,83 reviews,52.048333,-7.585278
+Butler Arms Hotel,"New Line Road, Waterville Ireland",5,3,4,12,32,35,2,30,,,203,202,201,204,200,,175,4.5,400 reviews,54.954645,-7.746316
+Sandhouse Hotel,Rossnowlagh Ireland,5,3,4,12,32,65,62,94,,,203,201,204,200,,, Available Upon Request,4.5,736 reviews,54.5543518,-8.2097755
+Holland House B&B,"Creevy, Ballyshannon Ireland",5,3,4,12,32,2,58,13,,,200,,,,,, Available Upon Request,5,11 reviews,54.5255817,-8.222916569
+Carna Bay Hotel,"Connemara, Carna H91 HT61 Ireland",5,3,4,12,32,69,30,89,,,201,,,,,,140,5,22 reviews,53.500049,-9.75018
+Cliff House Hotel,"Cliff Road, Ballybunion Ireland",5,3,4,12,62,58, Currency exchange,87,,,203,201,200,,,, Available Upon Request,4.5,284 reviews,52.152069,-7.162091
+The Old Medical Hall Bed & Breakfast,"Beara The Old Medical Hall, West End off the Main Square, West End, Castletownbere Ireland",5,3,4,14,35,2,73, Currency exchange,,,Unknown,,,,,, Available Upon Request,5,55 reviews,53.271913,-7.827745
+Fernhill House Hotel,"Fernhill, Clonakilty Ireland",5,3,4,14,35,61,65,58,,,202,201,204,,,, Available Upon Request,5,536 reviews,51.6241781,-8.9017313
+Oldfarm,"Redwood, Lorrha, Nenagh E45 VF25 Ireland",5,3,4,14,14,60,84,95,89, First aid kit,Mountain view,201,,,,, Available Upon Request,Unknown,Unknown,53.0927421,-8.1218363
+Archways,"Rosslare Road, Tagoat, Rosslare Ireland",5,3,4,14,14,30,79,58,,,201,200,,,,,95,5,179 reviews,52.269932,-6.390259
+Inisean B&B,"Pole Rd Meenmore, Dungloe F94 P9D6 Ireland",5,3,4,14,67,60,84,95, Strollers,40,201,200,,,,,70,5,136 reviews,54.951921,-8.360545
+Trident Hotel Kinsale,"Worlds End House Lower oConnell Street Worlds End House, Kinsale P17 NT38 Ireland",5,3,4,14,68,63,61,58,,,203,202,201,204,,,130,4.5,"1,377 reviews",53.34789,-6.259982
+The Strand Hotel Ballyliffin,"Strand Hotel ShoreS Road, Ballyliffin F93 TY75 Ireland",5,3,4,14,51,85,61,65,,,202,201,200,,,, Available Upon Request,4,455 reviews,55.2814,-7.392184
+Aran Lodge B&B,"Ballylickey, Bantry Ireland",5,3,4,14,51,35,60,84,95,40,201,200,,,,,72,5,109 reviews,51.676542,-9.440919
+The Lodge Accommodation,"The Old Bond Store Dillon Terrace, Ballina F26 YH66 Ireland",5,3,4,14,51,35,73,13,,,201,204,,,,,72,4.5,66 reviews,53.345219,-6.262696
+Ashley Park House,"Ardcroney 3, Nenagh Ireland",5,3,4,14,51,35,30,65,,,202,201,204,200,,, Available Upon Request,5,435 reviews,53.454457,-6.223587
+Channel View B&B,"Church Strand, Baltimore Ireland",5,3,4,14,51,58,13,57,,,201,200,,,,, Available Upon Request,4.5,152 reviews,51.483651,-9.365244
+Liss Ard Estate,"Castletownsend Road, Skibbereen P81 NP44 Ireland",5,3,4,14,51,60,84,95,2,30,202,201,204,200,,, Available Upon Request,4.5,315 reviews,51.5416909,-9.2613469
+Leim Siar Bed and Breakfast,"An Fod Dubh | Blacksod Belmullet | Beal An Mhuirthead, Belmullet Ireland",5,3,4,14,51,30,79,58,,,201,200,,,,, Available Upon Request,5,142 reviews,54.219676,-9.986727
+Ferryview Country Home,"Renard, Cahersiveen Ireland",5,3,4,14,51,28,58,13,,,201,200,,,,, Available Upon Request,4.5,85 reviews,51.9296661,-10.25195854
+Sea Dew Guesthouse,"Sea Dew Clonminch Road, Tullamore Ireland",5,3,4,14,73,58,13,100,,,201,200,,,,, Available Upon Request,4.5,118 reviews,53.276875,-7.49378
+Murphys Bed and Breakfast,"Murphys Cottage 9 Dundalk Street, Carlingford Ireland",5,3,4,14,73,83, Currency exchange,13,,,201,205,,,,, Available Upon Request,4.5,20 reviews,54.037968,-6.185319
+Iveragh Heights,"Iveragh Heights Carhan Road, Cahersiveen Ireland",5,3,4,14,2,40,13,47,,,201,200,,,,,70,4.5,132 reviews,51.94648,-10.229218
+Castle Lodge Bed & Breakfast,"Back Road, Malahide Ireland",5,3,4,14,2,73, Currency exchange,13,,,201,200,,,,, Available Upon Request,4.5,389 reviews,53.4423865,-6.15765
+Ballingowan House,"Limerick Road, Newcastle West Ireland",5,3,4,14,2,13,47,92,,,201,200,,,,,80,5,90 reviews,52.450787,-9.053159
+ODonovans Hotel,"Pearse Street, Clonakilty Ireland",5,3,4,14,44,2,30,63,,,201,200,,,,, Available Upon Request,4,241 reviews,51.6230683,-8.8896615
+Westbrook Country House,"Pheasant Hill, Westport Road, Castlebar L17 110 Ireland",5,3,4,14,36,40,62,58,,,202,201,200,,,,110,5,68 reviews,53.709698,-6.349578
+The Midway Bar & Guesthouse,"Main Street, Dungloe Ireland",5,3,4,14,36,35,2,40,,,201,,,,,, Available Upon Request,4.5,93 reviews,54.9481398,-8.359808
+Lemongrove House,"Blackstoops, Enniscorthy Ireland",5,3,4,14,36,28,79,13,,,202,201,200,,,, Available Upon Request,4.5,63 reviews,52.51393355,-6.557080946
+Torine House,"Sunhill, Killorglin Ireland",5,3,4,14,8,40,58,81,,,201,,,,,,80,4,132 reviews,52.111688,-9.815121
+Danny Minnies,"The Rosses, Annagry Ireland",5,3,4,14,8,2,58,13,,,201,,,,,, Available Upon Request,4.5,128 reviews,54.804553,-7.770041
+Heatherview Bed & Breakfast,"Malahide Road Kinsealy, Malahide Ireland",5,3,4,14,8,2,73,83,,,201,200,,,,, Available Upon Request,4.5,73 reviews,53.4205528,-6.1766258
+203 B&B,"Renard Road, Cahersiveen V23 TW73 Ireland",5,3,4,14,69,81,13,92,,,201,200,,,,, Available Upon Request,5,98 reviews,51.929699,-10.252369
+Island View House B&B,"Bayview House High Street, Roundstone Ireland",5,3,4,14,32,35,85,58,,,203,201,200,,,,85,5,310 reviews,53.39623,-9.91756
+Deebert House Hotel,"Deebert, Kilmallock 000 Ireland",5,3,4,14,32,35,2,63,,,202,201,200,,,,70,4.5,217 reviews,52.40142495,-8.566538048
+Castle Murray House,"St Johns Point, Dunkineely Ireland",5,3,4,14,32,35,30,79,,,201,200,,,,,130,4.5,329 reviews,54.5693388,-8.459921
+The Blue Door House,"Reenard Road, Cahersiveen V23 V274 Ireland",5,3,4,14,32,60,84,95,2,13,Unknown,,,,,, Available Upon Request,5,15 reviews,51.94648,-10.229218
+Sunville House,"Sunville House Sunville, Ballycotton Ireland",5,3,4,14,32,73, Adults only,58,,,201,200,,,,, Available Upon Request,5,151 reviews,52.662278,-8.653021
+Gort Na Mona B & B,"Donegal Road Cronkeerin, Ardara Ireland",5,3,4,14,32,2,13,90,,,201,200,,,,, Available Upon Request,5,167 reviews,54.764831,-8.407678
+OSheas B & B,"Church Street Ring of Kerry, Cahersiveen Ireland",5,3,4,14,32,2,30, Makeup services,,,201,,,,,, Available Upon Request,3.5,44 reviews,51.9469492,-10.2244876
+Gleesons Townhouse Hotel & Restaurant,"Market Square, Roscommon F42 WA22 Ireland",5,3,4,14,32,61,65,58,,,202,201,204,200,,,95,4.5,508 reviews,54.003677,-6.404178
+Ethan House B&B,"Ethan House 1 Coach Road, Rosscarbery Ireland",5,3,4,14,67,35,58,13,,,201,200,,,,,90,4.5,40 reviews,51.574349,-9.028658
+Bective Mill House B&B,"Bective Mill House Bective Mill House Old Mill, Navan Ireland",5,3,4,14,51,2,30,79,,,201,200,,,,,80,4.5,72 reviews,53.656849,-6.678985
+Railway Country House,"Railway House Arklow Road, Gorey Y25 E6H3 Ireland",5,3,4,67,35,2,30,71,,,201,204,200,,,,120,5,67 reviews,52.700628,-6.957286
+Cill Aodain Court Hotel,"Main Street, Kiltimagh Ireland",5,3,4,67,35,30,40,61,,,201,204,200,,,, Available Upon Request,4.5,214 reviews,53.8502204,-8.9985019
+Corcorans Lodge,"Barnadown, Clone Road, Ferns, Enniscorthy Ireland",5,3,4,67,60,84,95,85,79,13,201,200,,,,, Available Upon Request,5,46 reviews,52.507551,-6.572813
+Sea Court B&B,"Seacourt Waterford Road, Tramore Ireland",5,3,4,67,60,84,95,94,58,81,201,,,,,,100,5,70 reviews,52.1647,-7.149806
+The Ritz,"Chapel Brae, Killybegs Ireland",5,3,4,67,60,84,95,80, Convenience store,13,201,200,,,,,75,4.5,143 reviews,54.6380068,-8.439418
+Gregans Castle Hotel,"On the N67, Gragan East, Ballyvaughan H91 CF60 Ireland",5,3,4,67,83,13,99,57,,,201,204,200,,,, Available Upon Request,4.5,621 reviews,53.115585,-9.149571
+Kerstins B&B,"Ten Acres, Bealkelly Bealkelly, Killaloe V94 R8WH Ireland",5,3,4,68,8,2,30, Rooftop terrace,,,Landmark view,201,200,,,, Available Upon Request,5,8 reviews,53.258772,-9.102074
+Zephyr Lodge,"West End, Bundoran Ireland",5,3,4,66,51,60,84,95,85,79,201,200,,,,, Available Upon Request,5,60 reviews,54.47644,-8.294383
+An Grianan Hotel,"An Grianan Hotel 13) Derry to Letterkenny (N, Burt F93 YA0P Ireland",5,3,4,63,61,13,87,99,,,202,201,204,200,,, Available Upon Request,4.5,842 reviews,55.039016,-7.433689
+King Sitric,"East Pier, Howth Ireland",5,3,4,51,43,35,2,58,,,203,,,,,,170,4.5,311 reviews,53.3884982,-6.0637908
+Coffeys Rivers Edge Guesthouse,Killorglin Ireland,5,3,4,51,45,40,58,13,,,201,200,,,,,100,4.5,178 reviews,52.1061973,-9.7867881
+Inishowen Lodge,"Ballyrattan Redcastle, Moville Ireland",5,3,4,51,32,35,30,79,,,201,200,,,,,85,5,201 reviews,55.158612,-7.122924
+Royal Spa Hotel,"The Royal Spa Hotel Main Street, Lisdoonvarna Ireland",5,3,4,51,31,58,81,100,,,201,200,,,,,81,4,96 reviews,53.02868075,-9.290095924
+The Courtyard B&B Bunratty,"Bunratty Village, Bunratty Ireland",5,3,4,73,58,13, 24-hour check-in,38,,,201,200,,,,,90,5,337 reviews,52.694478,-8.815035
+Gullanes Hotel & Conference Centre,"Main Street, Ballinasloe Ireland",5,3,4,2,63,62,13,99,,,201,204,200,,,,89,4.5,203 reviews,53.3307275,-8.2205276
+Glenside Hotel,"Dublin Road, Drogheda Ireland",5,3,4,61,65,58, Currency exchange,87,,,202,201,200,,,,139,4,374 reviews,53.7078748,-6.3280361
+Lucan Spa Hotel,"Junction 4A N4 Westbound, Lucan K78 W3W7 Ireland",5,3,4,61,65,79,58,87,,,202,201,,,,,119,3.5,445 reviews,52.658587,-8.623521
+The Meetings,"Vale of Avoca Avoca, Arklow Y14 VW08 Ireland",5,3,4,72,45,60,84,95, Rooftop terrace,13,201,200,,,,,60,4,133 reviews,52.798714,-6.151395
+Vaughans Anchor Inn,"Liscannor Community Centre Main Street, Liscannor Ireland",5,3,4,43,32,2,40,58,,,201,200,,,,,130,4,253 reviews,52.9384957,-9.3905901
+Hamlet Court Hotel,"Johnstownbridge, Enfield Ireland",5,3,4,45,35,63,61,58,,,202,201,204,200,,, Available Upon Request,4.5,508 reviews,53.393252,-6.845396
+Raheen House Hotel,"10 Raheen Road, Clonmel E91 AC82 Ireland",5,3,4,45,35,2,65,62,,,202,201,204,200,,,145,4.5,162 reviews,52.347655,-7.708046
+Naomh Colman Bed & Breakfast,"Kilmacduagh, Gort Ireland",5,3,4,45,2,58,13,57,,,201,200,,,,,85,5,81 reviews,53.068269,-8.821343
+Innishannon House Hotel,Innishannon T12 PH96 Ireland,5,3,4,45,2,65,62,13,,,201,204,200,,,, Available Upon Request,4,162 reviews,51.7654182,-8.6578489
+Killyon Guest House,"Killyon Guesthouse Dublin Road, Navan Ireland",5,3,4,45,30,58,47,57,,,Unknown,,,,,,80,4,135 reviews,53.656849,-6.678985
+College Hill House,"Braystown, Slane Ireland",5,3,4,36,35,65,94,58,,,202,201,204,200,,,158,5,166 reviews,53.713528,-6.53815
+Moville Boutique Hostel,"Malin Road, Moville F93 DE27 Ireland",5,3,4,36,75,60,84,95, Indoor play area for children,30,201,200,,,,, Available Upon Request,5,239 reviews,55.191281,-7.041766
+Connollys Guesthouse,"Doohamlet, Castleblayney Ireland",5,3,4,36,45,2,61,65,,,201,204,200,,,,90,5,22 reviews,54.120042,-6.747373
+Mills Inn,"Ballyvourney, Macroom Ireland",5,3,4,36,32,69,79,58,,,202,201,200,,,,100,4.5,262 reviews,51.9455757,-9.170658
+The Ring Farmhouse,"The Ring Birr, Birr Ireland",5,3,4,8,35,2,79,58,,,201,200,,,,,75,4.5,25 reviews,53.08097375,-7.869968891
+Charlottes Way B&B,"The Hill, Banagher Ireland",5,3,4,8,35,2,13,89,,,Unknown,,,,,, Available Upon Request,5,41 reviews,54.37681475,-7.7035952
+Cloneen Bed & Breakfast,"Cloneen Love Lane, Tramore Ireland",5,3,4,8,58,13,87,38,,,201,200,,,,, Available Upon Request,4.5,224 reviews,52.1647,-7.149806
+Ard na Greine Bed & Breakfast Ballylickey,"Dromdubh East, Ballylickey, Bantry Ireland",5,3,4,8,51,35,60,84,95,13,201,200,,,,, Available Upon Request,5,3 reviews,51.676542,-9.440919
+Rosemount,"Rosemount Dublin Road, Dundalk Ireland",5,3,4,8,72,58,13,57,,,201,,,,,,90,4.5,62 reviews,53.980877,-6.394433
+Percy French Hotel,"Percy French Hotel Bridge Street, Strokestown Ireland",5,3,4,8,44,35,2,62,,,201,,,,,, Available Upon Request,4,109 reviews,53.774149,-8.103352
+Bunratty Heights Bed and Breakfast,"Low Road Co. Clare, Bunratty Ireland",5,3,4,8,32,35,58,13,,,201,200,,,,, Available Upon Request,4.5,66 reviews,52.698429,-8.8112956
+Woodenbridge Hotel & Lodge,"Vale of avoca, Arklow Y14 XT95 Ireland",5,3,4,8,32,2,69,61,,,202,201,204,,,,78,4,"1,185 reviews",52.798714,-6.151395
+The Gateway Hotel Swinford,"Gateway Hotel Main Street County Mayo, Ireland, Swinford F12 K7F4 Ireland",5,3,4,8,32,97,35,73,,,201,200,,,,,115,4,199 reviews,53.421907,-9.300305
+Doire Liath,"Newtown, Bantry Ireland",5,3,4,8,32,13,47,57,,,Unknown,,,,,, Available Upon Request,4.5,89 reviews,51.6889187,-9.444654086
+Teltown House B&B,"Teltown, Navan Ireland",5,3,4,8,32,30,79,58,,,201,200,,,,, Available Upon Request,5,89 reviews,53.6983496,-6.8414217
+Riverbend Lodge B & B,"Clifden Rd, N59, Claremount, Oughterard H91 XC3C Ireland",5,3,4,8,32,30,79,13,,,Mountain view,201,,,,, Available Upon Request,5,3 reviews,53.427585,-9.324626
+Palmgrove Bed & Breakfast,"Palm Grove Palm Grove Palm Grove Tarbert Rd, Listowel V31 WR94 Ireland",5,3,4,8,33,2,58,13,,,201,,,,,, Available Upon Request,4.5,17 reviews,52.57278,-9.37528
+The Ballesteros Penthouse Apartments,"The Heritage Golf Resort The Heritage Resort, Killenard, Killenard Ireland",5,3,4,8,31,2,65,62,,,201,204,200,,,, Available Upon Request,4.5,13 reviews,53.132656,-7.149534
+Coolcower House,Macroom P12 E135 Ireland,5,3,4,8,31,62,13,89,,,201,204,200,,,,96,4.5,31 reviews,51.902588,-8.946912
+Currarevagh House,"Glann Road, Oughterard Ireland",5,3,4,32,75,58,13,87,,,201,200,,,,, Available Upon Request,5,353 reviews,53.4351483,-9.3244784
+Murphys Hotel,"Dwyer Square, Tinahely Ireland",5,3,4,32,75,2,65,62,,,201,204,,,,,103,4,47 reviews,52.7992919,-6.4639684
+Wild Atlantic Lodge B&B,"Cregg 12, Lahinch V95 Y7C3 Ireland",5,3,4,32,67,60,84,95,85,58,203,201,200,,,,80,5,172 reviews,53.7,-9.81667
+Brook Lodge B&B,"Derries, Glenties Ireland",5,3,4,32,67,13,89,87,,,201,204,200,,,, Available Upon Request,5,27 reviews,54.7765995,-8.291028806
+Lissadrone B & B,"Lissadrone Lios idir Abhainn, Carrowmore-Lacken, Killala F26 EC97 Ireland",5,3,4,32,45,35,60,84,95,30,201,200,,,,, Available Upon Request,5,43 reviews,52.811523,-8.434841
+Meadowfield Bed and Breakfast,"Galway Road, Ballyvaughan Ireland",5,3,4,32,45,58,13,87,,,201,,,,,, Available Upon Request,4.5,60 reviews,53.114967,-9.149776
+Glebe Country House,"Glebe Country House Glebe Country House Glebe Country House Balinadee Near Kinsale, Bandon Ireland",5,3,4,32,33,35,30,13,,,201,,,,,, Available Upon Request,4.5,55 reviews,51.743946,-8.73678
+Springfort Hall Country House Hotel,"Doneraile Road, Mallow Ireland",5,3,4,32,33,35,28,61,,,202,201,204,200,,,85,4,529 reviews,52.22110815,-8.584542018
+Slidala Bed & Breakfast,"Dublin Road, Roscrea E53 PD68 Ireland",5,3,4,32,33,58,13,87,,,Unknown,,,,,, Available Upon Request,5,117 reviews,52.845673,-6.91193
+Down Yonder Luxury Bed & Breakfast,Rosses Point Ireland,5,3,4,32,33,2,13,47,,,201,200,,,,,140,5,229 reviews,54.305943,-8.5589438
+Cooneys Hotel,"Cooneys Hotel Main Street, Ballymahon Ireland",5,3,4,32,33,69,63,61,,,201,200,,,,, Available Upon Request,4.5,200 reviews,53.565711,-7.766663
+Bethel Guesthouse,"Ownahincha, Rosscarbery Ireland",5,3,4,32,33,13,47,87,,,203,201,,,,,90,4.5,138 reviews,51.56644435,-9.00075674
+Wild Honey Inn,"Kincora Road, Lisdoonvarna V95 P234 Ireland",5,3,4,32,33,13,47,57,,,201,,,,,, Available Upon Request,4.5,291 reviews,53.361008,-6.183497
+Elements Guest House,"Elements Kilfenora Road, Lisdoonvarna Ireland",5,3,4,32,33,30,58,13,,,201,200,,,,,95,5,97 reviews,53.03278,-9.28833
+Kinvara Guesthouse,"The Square, Kinvara Ireland",5,3,4,32,13,47,87,99,,,201,200,,,,,100,4.5,465 reviews,53.14628215,-6.06676085
+Newgrange Hotel,"Bridge St., Navan Ireland",5,3,4,33,44,35,63,61,,,202,201,204,200,,,94,4,854 reviews,53.6512007,-6.6824085
+Ma Dwyers Guest House,"Dublin Road, Navan Ireland",5,3,4,33,45,85,58,13,,,201,200,,,,,90,4.5,330 reviews,53.656849,-6.678985
+Castle Arch Hotel,"Summerhill Road, Trim Ireland",5,3,4,33,45,61,65,58,,,202,201,204,200,,, Available Upon Request,4,527 reviews,53.5514772,-6.7938882
+Bunratty Castle Mews,"Low Road, Bunratty Ireland",5,3,4,33,91,58,13,38,,,201,200,,,,,80,4.5,385 reviews,52.698429,-8.8112956
+Deerpark Manor Bed & Breakfast,"Kilkelly Road, Swinford Ireland",5,3,4,33,31,35,58,13,,,201,200,,,,,65,5,135 reviews,53.8708104,-8.8493255
+Oldcastle House Hotel,"Cogan Street, Oldcastle Ireland",5,3,4,70,2,69,71,62,,,201,204,,,,, Available Upon Request,4.5,77 reviews,53.769894,-7.159675
+Dungimmon House,"Ballyhugh, Ballyconnell Ireland",5,3,4,30,58,13,57,38,,,201,200,,,,,80,5,208 reviews,54.113758,-7.580704
+Aonach Bed & Breakfast,"Syngefield, Birr Ireland",5,3,4,30,79,58,100,92,,,201,200,205,,,, Available Upon Request,5,30 reviews,53.0945313,-7.8881429
+Radharc na Ceibhe,Province of Connacht Ireland,5,3,4,28,58,13,100,92,,,Unknown,,,,,, Available Upon Request,4,52 reviews,54.0546008,-7.8072475
+Belleek Caravan and Camping Park,Ballina Ireland,5,3,36,31,2,30,79,89,,,Unknown,,,,,, Available Upon Request,4.5,85 reviews,54.1143359,-9.1532099
+Emmaus Retreat Centre,"Ennis Lane Lissenhall, Swords Ireland",5,3,8,63,61, Adults only,58,57,,,201,,,,,, Available Upon Request,4,37 reviews,53.4719158,-6.211151
+Avalon B&B,"Clones Rd Butlersbridge, Cavan Ireland",5,3,8,2,13,76,47,,,,200,,,,,, Available Upon Request,5,2 reviews,53.960495,-7.362192
+Riverside B&B,"Errigal, Kill, Cootehill Ireland",5,3,8,45,58,13,47,,,,Unknown,,,,,, Available Upon Request,3,12 reviews,55.034328,-8.113014
+Ashley Guesthouse,"Bawnabraher Waterford Road, Dungarvan Ireland",5,3,8,32,85,2,13,47,,,Unknown,,,,,, Available Upon Request,4,7 reviews,52.1082747,-7.597855896
+Sandymount House,"Oldtown, Abbeyleix Ireland",5,3,8,32,30,58,13,57,,,201,200,,,,, Available Upon Request,5,77 reviews,52.581087,-7.411351
+The Sleepy Camel,"The Village, Glenbeigh Ireland",5,3,8,33,35,40,58,13,,,201,200,,,,, Available Upon Request,4.5,180 reviews,52.0560543,-9.9394238
+North Lodge,"Kilkea North Lodge, Kildare Ireland",5,3,8,33,35,30,79,58,,,Unknown,,,,,,85,3.5,9 reviews,52.9482704,-6.895288
+Oakdale,"Oakdale, Templemore, Templemore Ireland",5,3,8,30,28,58,13,76,,,Unknown,,,,,,65,4.5,4 reviews,52.8027938,-7.826627
+Hill View B&B,"Hill View B&B Main Street Silvermines, Nenagh Ireland",5,3,32,13,47,,,,,,Unknown,,,,,, Available Upon Request,4.5,5 reviews,52.7948492,-8.2372984
+Summerhill House Hotel,Enniskerry Ireland,5,3,29,1,65,62,94,58,,,202,201,200,,,,139,3.5,748 reviews,53.1927323,-6.1703572
+Talbot Hotel,"Barrack St, Belmullet Ireland",5,3,29,1,70,35,65,62,,,201,204,,,,,149,4.5,477 reviews,54.1710798,-10.0680209
+Tankardstown,"Tankardstown House Rathkeny, Slane, County Meath, Slane Ireland",5,3,29,42,14,35,60,84,95,30,202,201,204,200,,,260,4.5,406 reviews,52.138943,-7.343148
+Lough Rea Hotel and Spa,"Old Galway Road, Loughrea Ireland",5,3,29,49,1,35,71,61,,,202,201,204,200,,,79,4,"1,257 reviews",53.202606,-8.563969
+Trump International Golf Links & Hotel Doonbeg,"Doonbeg, off the N67, Doonbeg Ireland",5,3,29,49,1,12,14,35,,,203,201,204,200,,, Available Upon Request,4.5,922 reviews,52.73194,-9.52278
+"Eccles Hotel & Spa, Glengarriff","Glengarriff Harbour, Glengarriff Ireland",5,3,29,49,1,14,14,2,,,203, Landmark view,202,201,204,200,150,4,742 reviews,53.26195,-9.07891
+Dunboyne Castle Hotel And Spa,"Dunboyne Castle Hotel & Spa Maynooth Road, Dunboyne A86 PW63 Ireland",5,3,29,11,4,70,63,61,,,202,201,204,200,,,117,4,"2,873 reviews",53.4,-6.46667
+Downings Bay Hotel,"Main Street, Downings Ireland",5,3,29,74,4,12,14,35,,,202,201,,,,, Available Upon Request,4,355 reviews,52.9489478,-6.6519002
+Seaview Guesthouse,"Windgap, Dungarvan Ireland",5,3,29,4,35,2,30,13,,,Unknown,,,,,, Available Upon Request,4,79 reviews,52.05683795,-7.665665706
+The Three Towers Eco House & Organic Kitchen,"Kylebrack West Kylebrack, Loughrea H62 XH34 Ireland",5,3,29,4,14,2,30,40,,,201,204,200,,,, Available Upon Request,4.5,116 reviews,52.337147,-6.473643
+Driftwood Country Hostel Skibbereen,"Cork Road Drummig, Skibbereen Ireland",5,3,29,30,13,82,,,,,201,200,,,,, Available Upon Request,5,17 reviews,51.548051,-9.267598
+Errigal Country House Hotel,"Cavan Rd, Cootehill Ireland",5,3,29,10,4,33,45,63,,,202,201,204,200,,, Available Upon Request,4.5,554 reviews,54.0658117,-7.0975761
+Crosshaven House,"Church Bay Road Crosshaven Square, Crosshaven Ireland",5,3,29,10,23,67,35,60,84,95,202,200,,,,, Available Upon Request,5,35 reviews,51.7981814,-8.2879942
+Ashford Castle,Cong 49525 Ireland,5,3,9,49,1,14,8,35,,,202,201,204,200,,, Available Upon Request,5,"2,627 reviews",53.5414206,-9.2873469
+Cee Cliff House,"Cee Cliff House Bunagee Road Inishowen, Culdaff Ireland",5,3,3,35,2,30,79,13,,,Unknown,,,,,,65,4.5,36 reviews,55.28333,-7.16667
+Dun Cromain Bed & Breakfast,"Crank Road, Banagher Ireland",5,3,3,35,30,13,47,,,,200,,,,,, Available Upon Request,4,19 reviews,53.1905442,-7.9890067
+Marsh Mere Lodge,"Ballyhack, Arthurstown Ireland",5,3,3,1,12,32,52,13,,,202,201,200,,,,109,5,90 reviews,52.2453179,-6.968661568
+Berehaven Lodge,Castletownbere P75 D653 Ireland,5,3,3,1,12,30,61,13,,,201,200,,,,, Available Upon Request,5,56 reviews,51.647608,-9.913376
+Lough Hyne B & B,"Rosewood House, Baltimore Ireland",5,3,3,1,2,13,89, Picnic area,,,201,,,,,, Available Upon Request,5,24 reviews,51.888006,-8.574227
+Glenbrook House,"Airport Rd, Currow Village, Castleisland Ireland",5,3,3,1,2,13,,,,,Unknown,,,,,, Available Upon Request,5,29 reviews,52.22822,-9.464046
+Knightsbrook Bed & Breakfast,"1 Victorine Abbey, Trim Ireland",5,3,3,1,2,,,,,,Unknown,,,,,,85,4.5,26 reviews,53.5534385,-6.7642875
+Greenfields Farmhouse,"Greenfields Asdee East, Listowel Ireland",5,3,3,1,30,13,47,,,,Unknown,,,,,, Available Upon Request,5,24 reviews,52.449776,-9.486048
+Willowhill House,Carrigaline Ireland,5,3,3,1,23,2,13,47,,,201,,,,,, Available Upon Request,5,24 reviews,51.7881875,-8.349078034
+St. Martins Bed & Breakfast,"Greencloyne, Youghal Ireland",5,3,3,14,35,73,83, Currency exchange,,,Unknown,,,,,, Available Upon Request,4.5,21 reviews,51.9618866,-7.861186771
+Killineen House,"Killineen West, Dungarvan Ireland",5,3,3,67,60,84,95,85,13,89,Unknown,,,,,, Available Upon Request,5,16 reviews,52.1316242,-7.567540285
+Tuskar House,"St. Martins Road, Rosslare Ireland",5,3,3,2,58,13,,,,,Unknown,,,,,,90,4.5,36 reviews,52.2493729,-6.3373776
+Tom Blake House,"Tom Blake House Bective Street, Kells Ireland",5,3,3,2,69,,,,,,201,,,,,,120,5,33 reviews,53.723577,-6.88081
+Ballykine House,Clonbur Ireland,5,3,3,4,1,2,13,,,,201,200,,,,, Available Upon Request,5,74 reviews,53.5445942,-9.3636096
+An Portan Guest House and Restaurant,"Baile an Teampaill, Dun Chaoin, Dunquin Ireland",5,3,3,4,1,21,13,,,,201,,,,,,95,4.5,97 reviews,52.1361278,-10.44613136
+Stella Maris Country House Hotel,Ballycastle Ireland,5,3,3,4,1,21,13,,,,Unknown,,,,,,150,4.5,89 reviews,55.2006882,-6.250282
+Knocknacree Bed and Beakfast,"Island, Stradbally, Dungarvan X42A434 Ireland",5,3,3,4,12,2,58,13,,,Unknown,,,,,, Available Upon Request,5,17 reviews,54.002519,-7.483089
+Herons Cove,"Rossnowlagh Road, Ballyshannon Ireland",5,3,3,4,14,33,13,89,,,201,,,,,,99,5,38 reviews,54.501152,-8.187528
+Innisfree House,"Carrick Road, Dundalk Ireland",5,3,3,4,4,13,47,,,,201,,,,,,79,4,85 reviews,54.000337,-6.398438
+Copperfield House,"Copperfield House Boherclogh Street, Cashel Ireland",5,3,3,4,73,83, Currency exchange,13,,,201,200,,,,, Available Upon Request,5,91 reviews,52.51583,-7.88556
+Richmond House,Cappoquin Ireland,5,3,3,4,32,35,58,13,,,Unknown,,,,,,150,4.5,136 reviews,52.17265195,-7.847945999
+Kilcommon Lodge Hostel,"Pollatomish, Belmullet Ireland",5,3,3,36,75,79,13,57,,,201,200,,,,,52,5,58 reviews,54.261944,-9.798056
+Grangeclare Paddocks,"Bog Road Oristown, Kells Ireland",5,3,3,13,,,,,,,Unknown,,,,,, Available Upon Request,4.5,44 reviews,53.734424,-6.782351
+Holly Crest Lodge,"Hollycrest Lodge Donegal Road, Killybegs Ireland",5,3,3,30,13,,,,,,Unknown,,,,,, Available Upon Request,4.5,35 reviews,54.633487,-8.446096
+Woodlands Farm,"Streamstown Near M6 Kilbeggan, Mullingar Ireland",5,3,3,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,28 reviews,53.520938,-7.337426
+Rose Cottage,"Brackenstown Road, Swords Ireland",5,3,3,,,,,,,,201,,,,,,120,5,42 reviews,53.4566361,-6.2264386
+Long Quay Lodging,"Long Quay, Clonakilty Ireland",5,3,13,54,47,,,,,,Unknown,,,,,,75,2.5,13 reviews,51.621724,-8.896393
+Aurora House Bed and Breakfast,"Kildare Road Geraldine, Athy Ireland",5,3,13,,,,,,,,201,,,,,,90,5,33 reviews,52.992426,-6.984067
+Duffys Hostel,"Duffys Hostel Donegal Road, Ballyshannon Ireland",5,3,30,58,13,89,54,47,,,Unknown,,,,,, Available Upon Request,3,3 reviews,54.501152,-8.187528
+Careys Viking House Hotel,"Letterkenny, Co.Donegal, Kincasslagh Ireland",5,3,46,4,12,14,40,58,,,203,201,200,,,,85,4.5,293 reviews,54.954119,-7.734252
+Renvyle House Hotel,"North of Tully Connemara, Renvyle H91 X8Y8 Ireland",5,3,9,1,12,8,35,2,,,203,202,201,204,200,,171,4.5,976 reviews,53.554331,-9.947197
+Rosapenna Hotel & Golf Resort,"Rosapenna, Downings Ireland",5,3,9,1,12,8,30,63,,,203,201,204,200,,, Available Upon Request,4.5,352 reviews,55.19021075,-7.824239388
+Atlantic Apartotel,"Main Street, Bundoran Ireland",5,3,9,1,14,32," ""Childrens playground""",2,,,Mountain view,203,201,200,,, Available Upon Request,4,268 reviews,54.4810049,-8.2722434
+Ferryport House,"Rosslare Harbour, Rosslare Y35 KNVO Ireland",5,3,9,1,2,94,13,47,,,201,200,,,,,89,4,157 reviews,52.269932,-6.390259
+Royal Marine Hotel,"Royal Marine Hotel Marine Road, Dun Laoghaire A96 K063 Ireland",5,3,9,11,1,40,63,61,,,203,201,204,200,,, Available Upon Request,4,"2,794 reviews",53.29395,-6.13586
+Four Seasons Hotel and Leisure Club,"Coolshanagh, Monaghan H18Y220 Ireland",5,3,9,11,1,93,14,2,,,202,201,204,200,,,119,4,602 reviews,53.995563,-6.393706
+Dromoland Castle Hotel,"Limerick-Ennis Road, Newmarket-on-Fergus Ireland",5,3,9,11,1,93,14,35,,,202,201,204,200,,,580,4.5,"4,718 reviews",52.212582,-8.996415
+Carrigaline Court Hotel & Leisure Centre,"Main Street, Carrigaline P43 RH21 Ireland",5,3,9,11,1,35,63,61,,,202,201,204,200,,,125,4,730 reviews,51.816136,-8.3913738
+Anner Hotel,"Dublin Road, Thurles Ireland",5,3,9,11,1,35,63,61,,,202,201,204,200,,,89,4,647 reviews,52.9572655,-7.7762333
+Great National Abbey Court Hotel & Spa,"Dublin Rd, Nenagh Ireland",5,3,9,11,1,35,2,63,,,202,201,204,200,,,70,4,794 reviews,52.8659151,-8.1818269
+Tullamore Court Hotel,"OMoore Street, Tullamore Ireland",5,3,9,11,1,35,2,63,,,202,201,204,200,,, Available Upon Request,4,869 reviews,53.2713538,-7.4939062
+Sheraton Athlone Hotel,"Gleeson Street Co. Westmeath, Athlone N37 D953 Ireland",5,3,9,11,1,35,2,73,,,202,201,204,200,,,65,4.5,"2,518 reviews",53.428516,-7.940076
+Lodges And Mews Houses,"At Castlemartyr Resort, Castlemartyr P25 X300 Ireland",5,3,9,11,1,35,2,13,,,201,,,,,,263,3.5,49 reviews,51.9106453,-8.064945736
+Midleton Park Hotel,"Midleton Park Hotel Old Cork Road, Midleton Ireland",5,3,9,11,1,35,2,71,,,202,201,204,200,,, Available Upon Request,4,"1,105 reviews",51.9147345,-8.17853099
+Athlone Springs Hotel,"Tuam Road Monksland, Athlone Ireland",5,3,9,11,1,35,2,71,,,202,201,204,200,,,70,4,"1,220 reviews",53.428516,-7.940076
+Brandon House Hotel,"Southknock, New Ross Y34KR62 Ireland",5,3,9,11,1,35,2,71,,,201,200,,,,, Available Upon Request,4,893 reviews,52.387904,-6.942686
+Brandon House Hotel,"Southknock, New Ross Y34KR62 Ireland",5,3,9,11,1,35,2,71,,,201,200,,,,, Available Upon Request,4,893 reviews,52.387904,-6.942686
+Seafield Hotel & Spa Resort,"Ballymoney, Gorey Ireland",5,3,9,11,1,12,35," ""Childrens playground""",,,203,202,201,204,,,210,4,"2,113 reviews",52.6810243,-6.2201534
+Mulranny204,"No. 5 The Courtyard, Mulranny F28 ET38 Ireland",5,3,9,11,1,12,14,35,,,200,,,,,, Available Upon Request,4.5,12 reviews,51.872546,-9.563766
+Inishowen Gateway Hotel,"Inishowen Gateway Hotel Railway Road, Buncrana F93 PPH9 Ireland",5,3,9,11,1,12,8,35,,,203,202,201,200,,, Available Upon Request,4,"1,409 reviews",51.909593,-8.432549
+Garryvoe Hotel,"Garryvoe Hotel Ballycotton Bay East Cork, Garryvoe P25 DR94 Ireland",5,3,9,11,1,12,32,35,,,203,202,201,204,200,, Available Upon Request,4.5,"1,063 reviews",51.87556,-8.00028
+Derrynane Hotel & Holiday Homes,"Ring of Kerry, Caherdaniel Ireland",5,3,9,11,1,12,94,13,,,Unknown,,,,,, Available Upon Request,3.5,93 reviews,51.940404,-10.236877
+Twin Trees Hotel & Leisure Club,"Downhill Road, Ballina F26 A3N7 Ireland",5,3,9,11,1,14,51,2,,,201,204,200,,,,85,4,781 reviews,54.11291,-9.150075
+The Johnstown Estate,"The Johnstown Estate, Enfield A83 V070 Ireland",5,3,9,11,1,14,2," ""Kids outdoor play equipment""",,,202,201,204,200,,, Available Upon Request,4,"1,850 reviews",52.255347,-7.109902
+The Johnstown Estate,"The Johnstown Estate, Enfield A83 V070 Ireland",5,3,9,11,1,14,2," ""Kids outdoor play equipment""",,,202,201,204,200,,, Available Upon Request,4,"1,850 reviews",52.255347,-7.109902
+GN Mulranny Park Hotel,Mulranny F28 N2H9 Ireland,5,3,9,11,1,14,36,35,,,203,202,201,204,200,,179,4,"1,208 reviews",53.898992,-9.790105
+BrookLodge & Macreddin Village,"Near Aughrim, Macreddin Village Y14 A362 Ireland",5,3,9,11,1,14,8,30,,,202,201,204,200,,,200,4,"1,267 reviews",52.83437,-6.250163
+Maldron Hotel Portlaoise,"Portlaoise Garda Station Abbeyleix Road, Portlaoise R32 HKN3 Ireland",5,3,9,11,1,66,35,2,,,201,200,,,,,85,4,857 reviews,53.03166235,-7.303078654
+"Radisson Blu Hotel, Athlone","Northgate Street, Athlone Ireland",5,3,9,11,1,63,61,58,,,202,201,204,200,,,102,4,"2,489 reviews",53.428516,-7.940076
+The Killeshin Hotel,"Dublin Road, Portlaoise Ireland",5,3,9,11,1,63,61,58,,,202,201,204,200,,, Available Upon Request,4,957 reviews,53.0415316,-7.2675628
+Maritime Hotel,"The Maritime Hotel The Quay, Bantry Ireland",5,3,9,11,1,51,32,35,,,203,202,201,204,200,,109,4.5,"1,595 reviews",51.6802139,-9.4570121
+Maritime Hotel,"The Maritime Hotel The Quay, Bantry Ireland",5,3,9,11,1,51,32,35,,,203,202,201,204,200,,109,4.5,"1,595 reviews",51.6802139,-9.4570121
+Lahinch Coast Hotel &204,"Station Road, Lahinch V95 W592 Ireland",5,3,9,11,1,43,32, Kids 9,,,201,204,,,,,109,4,229 reviews,52.151026,-8.392247
+"Bridge House Hotel, Spa and Leisure Club","Bridge House Hotel Bridge Street Tullamore, Offaly, Tullamore Ireland",5,3,9,11,1,44,35,60,84,95,202,201,204,200,,,128,4.5,"1,553 reviews",53.27491565,-7.493722427
+McWilliam Park Hotel,"Kilcolman Road, Claremorris F12 D1W3 Ireland",5,3,9,11,1,44,35,2,,,202,201,204,200,,, Available Upon Request,4,946 reviews,53.724034,-8.997641
+Rochestown Lodge Hotel & Spa,"164 Rochestown Avenue, Dun Laoghaire A96 ETY8 Ireland",5,3,9,11,1,44,35,2,,,201,204,200,,,,109,4,441 reviews,53.292462,-6.137498
+Treacys Hotel,"Templeshannon, Enniscorthy Ireland",5,3,9,11,1,44,70,65,,,201,204,200,,,,65,4,995 reviews,52.5015436,-6.5593111
+Ashdown Park Hotel Conference and Leisure Centre,"Ashdown Park Hotel The Coach Road, Gorey Ireland",5,3,9,11,1,36,35,2,,,202,201,204,200,,, Available Upon Request,4,976 reviews,52.678587,-6.285202
+Knightsbrook Hotel & Golf Resort,"Dublin Road, Trim Ireland",5,3,9,11,1,36,8,35,,,202,201,204,200,,,153,4,"2,563 reviews",53.557279,-6.792431
+The Hibernian Hotel and Leisure Centre,"Main Street, Mallow Ireland",5,3,9,11,1,36,33,2,,,202,201,200,,,,115,3.5,401 reviews,52.3510308,-8.679008
+Castleknock Hotel,"1 Porterstown Road, Castleknock D15 WNR7 Ireland",5,3,9,11,1,8," ""Childrens playground""",2,,,202,201,204,200,,, Available Upon Request,4,"2,009 reviews",53.377593,-6.406766
+Roganstown Hotel and Country Club,"Naul Road near Dublin Airport, Swords 30103 Ireland",5,3,9,11,1,8,40,63,,,201,204,200,,,, Available Upon Request,4,877 reviews,53.439817,-6.2582601
+Great National Ballykisteen Golf Hotel,"Limerick Junction Ballykisteen, Tipperary Ireland",5,3,9,11,1,8,35,2,,,201,204,,,,,79,4,661 reviews,52.5019872,-8.1988652
+Druids Glen Hotel & Golf Resort,"Newcastle Road, Newtown Mount Kennedy Ireland",5,3,9,11,1,8,35, Indoor play area for children,,,202,201,204,200,,,215,4.5,"3,009 reviews",53.09011815,-6.110423117
+Farnham Estate Spa and Golf Resort,"Farnham Estate, Cavan H12 H635 Ireland",5,3,9,11,1,8, Free shuttle or71s,63,,,202,201,204,200,,,149,4.5,"3,773 reviews",54.002178,-7.400322
+Farnham Estate Spa and Golf Resort,"Farnham Estate, Cavan H12 H635 Ireland",5,3,9,11,1,8, Free shuttle or71s,63,,,202,201,204,200,,,149,4.5,"3,773 reviews",54.002178,-7.400322
+Nuremore Hotel and Country Club,Carrickmacross Ireland,5,3,9,11,1,8,31,35,,,201,204,200,,,,119,4,748 reviews,53.9770462,-6.7193763
+"An Chuirt, Gweedore Court Hotel",Gweedore Ireland,5,3,9,11,1,32,2,63,,,201,204,200,,,,135,4,588 reviews,55.0501027,-8.2322026
+Pillo Hotel Ashbourne,"The Rath, Ashbourne Ireland",5,3,9,11,1, Karaoke,70,35,,,201,204,200,,,, Available Upon Request,4,"2,003 reviews",53.5270186,-6.412896298
+Great National Hotel Ballina,"Hotel Ballina N 59 Dublin Road, Ballina F26 X5P3 Ireland",5,3,9,11,1,98, Kids 9,73,,,202,201,204,200,,,80,4,529 reviews,52.845673,-6.91193
+Maldron Hotel Wexford,Barntown Ireland,5,3,9,11,1,91,2, Kids 9,,,201,204,200,,,,99,3.5,"1,081 reviews",52.3380513,-6.5364613
+Breaffy House Resort,"Breaffy, Castlebar Ireland",5,3,9,11,1,91,44,35,,,202,201,204,200,,, Available Upon Request,4.5,"2,013 reviews",53.8490149,-9.2395978
+Boyne Valley Hotel & Country Club,"Dublin Road, Drogheda Ireland",5,3,9,11,1,31,61,65,,,201,200,,,,,129,4,223 reviews,53.7078748,-6.3280361
+Maldron Hotel Tallaght,"Whitestown Way, Tallaght 24 Ireland",5,3,9,11,1, Windsurfing,63,61,,,202,201,204,200,,,95,4,998 reviews,53.2827458,-6.3749855
+The Horse & Jockey Hotel,Thurles Ireland,5,3,9,11,4,35,2,63,,,Mountain view,201,204,200,,,129,4,863 reviews,52.6801547,-7.8151008
+Talbot Hotel Carlow,"Portlaoise Road, Carlow Ireland",5,3,9,11,4,35,2,63,,,202,201,204,200,,,92,4,"1,627 reviews",52.725161,-6.843704
+Shearwater Hotel & Spa,"Marina Point, Ballinasloe H53 F5P9 Ireland",5,3,9,11,4,35,2,71,,,202,201,204,200,,,85,4,"1,108 reviews",53.3302722,-8.221376
+"Yeats Country Hotel, Spa and Leisure Centre",Rosses Point F91 WP6N Ireland,5,3,9,11,4,12,44,2,,,203,201,204,200,,,129,4,"1,400 reviews",54.3199487,-8.5756067
+Parknasilla Resort & Spa,Sneem Ireland,5,3,9,11,4,12,36,35,,,203,202,201,204,200,, Available Upon Request,4.5,"3,036 reviews",51.86788405,-9.893756393
+The Lakeside Hotel and Leisure Centre,"Lakeside Drive, Killaloe Ireland",5,3,9,11,4,14,68,35,,,Landmark view,202,201,204,200,,144,4.5,"1,134 reviews",52.9271177,-8.418507746
+Schull Harbour Hotel,"East End, Schull Ireland",5,3,9,11,4,14,44, Kids 9,,,203,202,201,204,,,125,4.5,304 reviews,51.527073,-9.547363
+Killashee Hotel,"Kilcullen Road, Naas Ireland",5,3,9,11,4,14,35,2,,,202,201,204,200,,,160,4,"2,148 reviews",53.2035067,-6.6676948
+The Glencarn Hotel,"Monaghan Road, Castleblayney Ireland",5,3,9,11,4,66,51,61,,,201,200,,,,,94,4,327 reviews,54.12310445,-6.743399452
+Mullingar Park Hotel,"Dublin Road, Mullingar Ireland",5,3,9,11,4,63,61,94,,,202,201,204,200,,, Available Upon Request,4,575 reviews,53.52577,-7.3297592
+Carnbeg Hotel & Spa,"Armagh Road, Dundalk Ireland",5,3,9,11,4,63,61,94,,,201,204,,,,, Available Upon Request,3.5,829 reviews,54.0358074,-6.417485
+Arklow Bay Conference & Leisure Hotel,"Sea Road Arklow Town Centre, Arklow Y14 DX02 Ireland",5,3,9,11,4,44, Walking tours,35,,,202,201,204,200,,, Available Upon Request,3.5,966 reviews,52.805378,-6.141022
+"Bloomfield House Hotel, Leisure Club & Spa","Belvedere, Mullingar Ireland",5,3,9,11,4,45,35,2,,,202,201,204,200,,,142,4,"1,440 reviews",53.4783194,-7.3693391
+Broadhaven Bay Hotel,"Shrofornagh Ballina Road Belmullet, Co. Mayo, Belmullet Ireland",5,3,9,11,4,45,70,35,,,203,202,201,204,200,,120,4.5,640 reviews,54.219676,-9.986727
+Raheen Woods Hotel,Athenry H65 E443 Ireland,5,3,9,11,4,36,35,2,,,202,201,204,200,,, Available Upon Request,4.5,509 reviews,53.29639,-8.74306
+"Hillgrove Hotel, Leisure & Spa","Old Armagh Road, Monaghan Ireland",5,3,9,11,4,36,44,35,,,202,201,204,200,,,115,4.5,"1,982 reviews",54.2451729,-6.9600452
+The Heritage,Killenard Ireland,5,3,9,11,4,8,35," ""Childrens playground""",,,202,201,204,200,,,169,4.5,"2,488 reviews",53.1328299,-7.1473275
+The K Club,Straffan Ireland,5,3,9,11,4,8,31,35,,,202,201,204,200,,, Available Upon Request,4.5,"1,261 reviews",53.3125051,-6.6082372
+Hotel Minella,"Coleville Road, Clonmel E91 FY97 Ireland",5,3,9,11,4,32,35," ""Childrens playground""",,,Mountain view,203,201,204,200,,165,4.5,524 reviews,52.358893,-7.699462
+Cavan Crystal Hotel,"Cavan Crystal Hotel Dublin Road, Cavan H12 P6E5 Ireland",5,3,9,11,4,32,35,2,,,202,201,204,200,,,125,4.5,"1,286 reviews",53.982837,-7.341291
+Kilcoran Lodge Hotel and Leisure Centre,"Townparks, Cahir Ireland",5,3,9,11,4,32,33,2,,,Mountain view,202,201,204,200,,100,4,591 reviews,52.37237645,-7.9192935
+The Dunraven,"Dunraven Arms Hotel Main Street, Adare Ireland",5,3,9,11,4,33,63,61,,,201,204,200,,,,195,4,"1,350 reviews",52.5656411,-8.786520997
+Aghadoe Heights Hotel & Spa,"Lakes of Killarney, Aghadoe, Killarney V93 DH59 Ireland",5,3,9,11,4,33,31,35,,,202,201,204,200,,, Available Upon Request,4.5,"2,068 reviews",52.058722,-9.51192
+Castle Oaks House Hotel,"Stradbally N Stradbally, Castleconnell V94 EH94 Ireland",5,3,9,11,4,31,30,63,,,202,201,204,200,,,69,4,650 reviews,52.712886,-8.50199
+Falls Hotel & Spa,Ennistymon Ireland,5,3,9,11,21,14,14,35,,,202,201,204,200,,,154,4,"1,361 reviews",52.9401873,-9.2932061
+The Riverside Park Hotel & Leisure Club,"The Promenade, Enniscorthy Y21 T2F4 Ireland",5,3,9,11,21,2,98,71,,,202,201,204,200,,,119,4.5,"1,685 reviews",52.4988532,-6.5656583
+"Kees Hotel, Leisure & Wellness Centre","Kees Hotel Main Street, Stranorlar Ireland",5,3,9,11,21,33,63,61,,,202,201,204,200,,,68,4.5,"1,177 reviews",54.80428755,-7.768832355
+Adare Manor,"Adare, Co. Limerick Adare Manor Golf Club, Adare V94 W8WR Ireland",5,3,9,48,1,93,14,35,,,202,201,204,200,,,700,4.5,"2,357 reviews",52.568151,-8.79796
+Corralea Court Hotel,"The Square, Tuam Ireland",5,3,3,1,2,62,87,99,,,201,,,,,, Available Upon Request,4,170 reviews,53.5146335,-8.851157
+Maddens Bridge Bar,"Main Street, Bundoran Ireland",5,3,3,1,21,23,8,13,,,Unknown,,,,,,94,3.5,57 reviews,54.4810049,-8.2722434
+Dohertys Country Accommodation,"Golf Links Road Co Donegal, Ballyliffin F93 XP49 Ireland",5,3,3,4,4,2,57,,,,Unknown,,,,,, Available Upon Request,5,18 reviews,55.277107,-7.395133
+Creacon Wellness Retreat,"Lower Creaken, New Ross Y34 NH61 Ireland",5,3,21,40,61,65,94,13,,,Unknown,,,,,,160,5,139 reviews,53.929469,-7.59951
+Annebrook House Hotel,"Austin Friars Street, Mullingar Ireland",5,3,21,35,63,61,79, Currency exchange,,,202,201,204,,,,85,4.5,"1,062 reviews",53.5258847,-7.3343899
+The Curragh B&B,"L6080, Knockaulin Curragh, Co kildare, Newbridge R56 XW81 Ireland",5,3,21,8,45,35,60,84,95,58,Landmark view,201,204,200,,,60,4.5,34 reviews,53.180148,-6.799884
+The Prince of Wales Hotel,"Prince of Wales Church Street, Athlone Ireland",5,3,21,70,35,60,84,95,71,63,201,204,200,,,,89,4.5,"1,136 reviews",53.42392055,-7.938616038
+Wild Atlantic Hostel,"Delphi Adventure Resort, Leenane Ireland",5,3,10,1,14,51,35,2,,,201,,,,,,55,4,8 reviews,53.622252,-9.754859
+Mc Kevitts Village Hotel,"Market Square Carlingford, Co. Louth, Carlingford Ireland",5,3,10,1,14,51,73,65,,,201,,,,,, Available Upon Request,4,221 reviews,54.003677,-6.404178
+Mc Kevitts Village Hotel,"Market Square Carlingford, Co. Louth, Carlingford Ireland",5,3,10,1,14,51,73,65,,,201,,,,,, Available Upon Request,4,221 reviews,54.003677,-6.404178
+Ardboyne Hotel,"Ardboyne Hotel Dublin Road, Navan C15 C9YA Ireland",5,3,10,4,14,35,2,73,,,201,204,200,,,,89,4,459 reviews,53.640427,-6.671881
+Shelmalier House,"Retreat Road Cartontroy, Athlone Ireland",5,3,10,4,14,2,28,58,,,201,200,,,,, Available Upon Request,5,74 reviews,53.428516,-7.940076
+Ryans Hotel,"Ryans Hotel Main Street, Cong Ireland",5,3,10,4,32,72,73,62,,,201,,,,,,108,4,113 reviews,53.53333,-9.28333
+Travelodge Dublin Phoenix Park,"N 3 Navan Road, Castleknock D15EW29 Ireland",5,3,10,21,14,73,58, Currency exchange,,,201,,,,,, Available Upon Request,3.5,905 reviews,53.380127,-6.355857
+Barkers,Spanish Point Ireland,5,3,10,23,67,35,85,79,,,201,200,,,,,90,4.5,34 reviews,52.8497247,-9.438044
+Bru Chlann Lir,"Clogher Tirrane, Belmullet Ireland",5,3,10,23,32, Windsurfing, Foot bath,13,,,Mountain view,203,201,200,,, Available Upon Request,5,46 reviews,53.797,-6.231307
+Four Seasons B&B,"Annagh Ballykeeran, Athlone Ireland",5,3,47,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,14 reviews,53.25492,-8.590036
+Ballyvergalhouse B&B,"Dublin Road Ballyvergal Guest House, Carlow Ireland",5,3,47,,,,,,,,200,,,,,, Available Upon Request,4.5,7 reviews,52.725161,-6.843704
+Erris Head House B&B,Belmullet Ireland,5,3,28,13,54,47,,,,,201,200,,,,, Available Upon Request,5,23 reviews,54.22411,-9.9872173
+Sea View B&B,"Seaview Mill Road, Dungloe Ireland",5,3,23,12,51,13,89,92,,,200,,,,,, Available Upon Request,4.5,11 reviews,54.951921,-8.360545
+Rush Lake House,Roundstone Ireland,5,3,23,14,51,40,58,13,,,201,,,,,, Available Upon Request,4.5,58 reviews,53.3957105,-9.9202716
+Glendale House,"Dublin Road Monaghan Glendale House, Monaghan Ireland",5,3,23,14,51,2,40,13,,,Unknown,,,,,, Available Upon Request,4.5,15 reviews,54.2455853,-6.9623279
+Cahergal Farmhouse,"Urlanmore, Newmarket-on-Fergus Ireland",5,3,23,14,43,2,79,58,,,201,200,,,,, Available Upon Request,5,231 reviews,52.744692,-8.926737
+Walkers Nest,"Walkers Nest Walkers Nest Carlingford Moneymore, Dundalk Ireland",5,3,23,14,8,2,30,79,,,202,201,,,,, Available Upon Request,5,26 reviews,54.043258,-6.186811
+Glebe House,"Ballinamore Rd, Mohill Ireland",5,3,23,14,30,62,81,13,,,Unknown,,,,,, Available Upon Request,4.5,62 reviews,53.921263,-7.865675
+The Grand Inn,"The Grand Inn The Grand Inn The Grand Inn 9 Mile House, Carrick-on-Suir Ireland",5,3,23,14,31,35,30,40,,,Unknown,,,,,, Available Upon Request,4,9 reviews,52.344978,-7.410684
+Minnocks Bed & Breakfast,"Roscrea Road, Birr Ireland",5,3,23,67,35,30,40,58,,,201,200,205,,,, Available Upon Request,5,34 reviews,52.9559649,-7.8351482
+Maryville Bed & Breakfast,"Ballycommon, Nenagh Ireland",5,3,23,51,43,58,13,57,,,201,200,,,,, Available Upon Request,5,105 reviews,52.8922585,-8.2449906
+Arch House Bed & Breakfast,"The Walk, Roscommon Ireland",5,3,23,2,58,13,,,,,200,,,,,, Available Upon Request,4,14 reviews,53.6394815,-8.1726065
+The Well Bed & Breakfast,"Gullane, Clonakilty Ireland",5,3,23,8,35,2,40,13,,,Unknown,,,,,, Available Upon Request,4.5,12 reviews,51.63802705,-8.873614127
+McCarthys Bed & Breakfast,"1/2 College Street, Clonmel Ireland",5,3,23,8,35,2,58,13,,,201,200,,,,, Available Upon Request,4.5,27 reviews,52.3542797,-7.6975277
+Chez Nous,"Church Street, Belmullet Ireland",5,3,23,8,67,85,30,79,,,201,200,,,,, Available Upon Request,4,23 reviews,53.7988551,-9.5255673
+Sunnyside B & B,"Sunnyside 42 Mardyke Street, Skibbereen Ireland",5,3,23,8,51, Adults only,58,92,,,201,,,,,, Available Upon Request,4.5,41 reviews,51.548195,-9.269364
+Shandrum Lodge,"Shandrum Beg, Bantry Ireland",5,3,23,8,32,94, Adults only,58,,,Unknown,,,,,, Available Upon Request,5,13 reviews,51.7227379,-9.404898572
+Shannonside Bed & Breakfast,Athlone N37 K7P3 Ireland,5,3,23,32,45,13,89,100,,,201,,,,,, Available Upon Request,5,37 reviews,53.43091,-7.949829
+Liosderrig House,"The Village, Glenbeigh Ireland",5,3,23,32,33,58,13,57,,,201,200,,,,, Available Upon Request,4.5,82 reviews,52.0560543,-9.9394238
+Admiralty House,"Carrownaffe, Moville Ireland",5,3,3,35,2,13,76,,,,201,200,,,,,76,5,31 reviews,55.191281,-7.041766
+Tir Na Nog Bed & Breakfast,"Dualla, Cashel Ireland",5,3,3,58,13,47,100,,,,201,200,,,,,100,4.5,306 reviews,52.5418972,-7.816454392
+The Mill Bar,"The Mill The Mill Tuam Road, Athlone Ireland",5,3,3,1,35,58,13,38,,,201,,,,,,90,4,49 reviews,53.428516,-7.940076
+Greengates Bed and Breakfast,"Blackrock, Dundalk Ireland",5,3,3,1,35,2,13,57,,,201,200,,,,, Available Upon Request,4.5,41 reviews,53.9632126,-6.3663076
+Sliabh Beagh Hotel,"Corlat Knockatallon, Monaghan H18 H985 Ireland",5,3,3,1,2,63,61,13,,,201,204,,,,, Available Upon Request,4.5,13 reviews,54.240674,-6.947253
+Lakeshore Lodge at Caragh Lake,"Caragh Lake, Killorglin Ireland",5,3,3,1,2,13,,,,,Unknown,,,,,, Available Upon Request,5,36 reviews,53.220812,-6.679442
+Kerrigans B&B,"52 Harbour Street, Mullingar Ireland",5,3,3,1,72,58,13,57,,,201,204,,,,, Available Upon Request,4,33 reviews,53.5277283,-7.3412063
+Coosan Cottage Eco Guesthouse,"Coosan Point Rd. Coosan, Athlone 09064 Ireland",5,3,3,1,44,79,13,57,,,Unknown,,,,,, Available Upon Request,4.5,88 reviews,53.428516,-7.940076
+Highlands Hotel,"Main Street, Glenties Ireland",5,3,3,1,45,2,13,57,,,201,200,,,,,110,4,206 reviews,54.7619589,-8.412956
+Bunratty Manor Hotel,"Bunratty Village, Bunratty Ireland",5,3,3,1,62,13,59,99,,,201,200,,,,, Available Upon Request,4.5,524 reviews,52.694478,-8.815035
+Hillcrest Guesthouse,"Hillcrest 1 Ard Na Greine, Clonmel Ireland",5,3,3,1,13,,,,,,201,,,,,, Available Upon Request,4.5,49 reviews,52.357401,-7.69083
+The Fincourt,"Oliver Plunkett Street, Oldcastle Ireland",5,3,3,1,13,,,,,,201,,,,,, Available Upon Request,4.5,65 reviews,53.769894,-7.159675
+Lake House Country Hotel,"The Glebe Clooney, Narin-Portnoo F94 K759 Ireland",5,3,3,1,30,65,62,13,,,201,200,,,,, Available Upon Request,4.5,131 reviews,54.648963,-8.114706
+Galvins on the Green,"East Green, Dunmanway Ireland",5,3,3,1,21,35,2,13,,,201,200,,,,, Available Upon Request,5,34 reviews,51.7196897,-9.113035
+Atlantic Hotel,"Main Street, Lahinch Ireland",5,3,3,1,21,35,57,,,,Unknown,,,,,,130,4,201 reviews,52.9320013,-9.3457355
+The Marine Ballybunion,"Sandhill Road, Ballybunion Ireland",5,3,3,1,21,12,,,,,201,,,,,, Available Upon Request,4.5,32 reviews,52.510244,-9.6766898
+Imperial Hotel,"The Imperial Hotel Main Street, Lisdoonvarna V95 HF5X Ireland",5,3,3,1,21,4,58,13,,,201,,,,,,100,3.5,214 reviews,53.274579,-9.050798
+Creevy Pier Hotel,"Kildoney Glebe Creevy, Ballyshannon Ireland",5,3,3,1,21,4,12,13,,,203,201,,,,, Available Upon Request,4.5,304 reviews,54.501152,-8.187528
+Silver Eel B&B,"Grange, Strokestown Ireland",5,3,3,1,21,51,8,13,,,201,,,,,,75,4.5,41 reviews,53.7766267,-8.1022177
+Ring of Kerry Hotel,"Ring of Kerry Hotel Valentia Road, Cahersiveen Ireland",5,3,3,1,21,2,62,13,,,201,,,,,,290,4,143 reviews,51.940404,-10.236877
+New Park Hotel,"Cross Street Galway, Athenry H65 NW50 Ireland",5,3,3,1,21, Complimentary instant cofffee, Complimentary tea,13,,,201,204,,,,,80,4,78 reviews,52.392123,-6.942899
+The Mayfly Hotel,Foxford Ireland,5,3,3,1,21,13,57,,,,201,,,,,, Available Upon Request,4.5,111 reviews,53.983333,-9.116667
+The Mayfly Hotel,Foxford Ireland,5,3,3,1,21,13,57,,,,201,,,,,, Available Upon Request,4.5,111 reviews,53.983333,-9.116667
+The Millhouse,"The Millhouse, The Old Mill, Slane, Co. Meath, Slane C15 FFK7 Ireland",5,3,3,1,21,13,,,,,201,200,,,,, Available Upon Request,4.5,109 reviews,53.70881,-6.545114
+Riverside Guesthouse & Restaurant,"Church St, Charlestown Ireland",5,3,3,1,21,34,2,13,,,Unknown,,,,,,99,4,96 reviews,53.3444581,-7.6154944
+West View Hotel,"Chapel Street, Louisburgh Ireland",5,3,3,1,21,,,,,,200,,,,,,100,4.5,71 reviews,52.86526,-8.758152
+Blarney Vale Bed and Breakfast,"Blarney, Cork Ireland",5,3,3,14,8,73, Currency exchange,13,,,201,200,,,,, Available Upon Request,5,401 reviews,51.9327019,-8.5679416
+Ballycommon House,"Ballycommon, Tullamore Ireland",5,3,3,14,32,40,79,13,,,200,,,,,,130,5,29 reviews,53.3058212,-7.394885026
+Burren View B&B,"Newtown, Ballyvaughan Ireland",5,3,3,14,32,86,45,13,,,201,200,,,,, Available Upon Request,4.5,71 reviews,53.1152862,-9.1487092
+Mountain View House B&B,"Ballyclery, Kinvara Ireland",5,3,3,14,13,47,100,92,,,200,,,,,, Available Upon Request,4.5,20 reviews,53.154993,-8.914275
+Ardeen House,Ramelton Ireland,5,3,3,14,13,,,,,,Unknown,,,,,, Available Upon Request,5,49 reviews,55.0373603,-7.6436895
+Aras Ghleann Cholm Cille,"L1025 Malin More, Glencolmcille F94 HH31 Ireland",5,3,3,14,30,58,47,57,,,201,200,,,,, Available Upon Request,4.5,41 reviews,54.681475,-8.727468
+Hillcrest House Bed and Breakfast,"Hillcrest House, Dungloe F94 EA46 Ireland",5,3,3,4,14,2,73,13,,,201,204,200,,,, Available Upon Request,5,7 reviews,54.144615,-9.740994
+Fernhill Lodge Carrigaline,"Fernhill, Carrigaline P43 YO18 Ireland",5,3,3,4,83,13,,,,,201,,,,,,79,4,17 reviews,51.819955,-8.388151
+Grey Gables B&B,"Innishannon T12 E778, Ireland",5,3,3,4,13,,,,,,Unknown,,,,,,90,4.5,44 reviews,51.7654182,-8.6578489
+Abbeyview Bed & Breakfast,"Abbeyview DublinS Road, Nenagh E45 DE70 Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,5,226 reviews,52.864609,-8.202957
+Bayly Farm,Nenagh Ireland,5,3,3,2,58,13,,,,,Unknown,,,,,, Available Upon Request,5,40 reviews,52.861944,-8.196667
+Ballinkeele House,"Ballymurn, Enniscorthy Ireland",5,3,3,2,13,82,,,,,201,200,,,,, Available Upon Request,5,117 reviews,52.507551,-6.572813
+The Rosslare Port Lodge,"Rosslare Harbour Co. Wexford, Rosslare Ireland",5,3,3,2,13,47,100,,,,201,200,,,,, Available Upon Request,3.5,163 reviews,52.2527565,-6.3351365
+Oughterard Holiday Hostel & Angling Center,"Station Road, Oughterard Ireland",5,3,3,2,13,,,,,,201,204,200,,,, Available Upon Request,4.5,21 reviews,53.4233559,-9.328138
+Rocksberry Bed & Breakfast,"Westport Road, Castlebar Ireland",5,3,3,2,13,,,,,,201,200,,,,,80,4.5,44 reviews,53.8486692,-9.3091893
+St Columbs House,"29 St Marys Road, Buncrana Ireland",5,3,3,2,13,,,,,,201,,,,,,100,5,34 reviews,55.13441,-7.455866
+White Hill Country House B&B/Self-Catering,"Fairways, Annahale, Castleblayney Ireland",5,3,3,2,30,13,,,,,Unknown,,,,,,80,5,47 reviews,52.067554,-9.548656
+The Sallows,"Lower Main Street, Clogheen Ireland",5,3,3,2,,,,,,,Unknown,,,,,, Available Upon Request,5,19 reviews,52.2775557,-7.9952663
+Waterville House,Waterville Ireland,5,3,3,11,1,2,13,,,,Unknown,,,,,, Available Upon Request,5,35 reviews,51.8271274,-10.1718452
+Bealkelly Country House,"Beakelly House, Killaloe Ireland",5,3,3,4,40,28,58,13,,,201,204,,,,, Available Upon Request,5,24 reviews,52.806702,-8.440082
+Lynden Bed & Breakfast,"2 Mulgrave Terrace Dun Laoghaire, Dun Laoghaire Ireland",5,3,3,4,35,13,,,,,Unknown,,,,,, Available Upon Request,4.5,88 reviews,53.2876257,-6.1371646
+Coolangatta Bed & Breakfast,"Ballinderry, Nenagh Ireland",5,3,3,4,35,30,13,57,,,201,200,,,,, Available Upon Request,4.5,10 reviews,53.02121135,-8.232676066
+Bun a Bhaile B&B,"Bun Abhaile Bun Abhaile Bun Abhaile Bun a Bhaile Coolea, Macroom Ireland",5,3,3,4,35,30,13,,,,Unknown,,,,,, Available Upon Request,5,28 reviews,51.908546,-8.963068
+Headley Court B&B,"Cloghlea, Bunratty 00353 Ireland",5,3,3,4,58,52,13,,,,201,200,,,,, Available Upon Request,5,228 reviews,53.189749,-6.431413
+Carrigshane House Bed & Breakfast,Midleton Ireland,5,3,3,4,58,13,47,,,,Unknown,,,,,, Available Upon Request,4.5,62 reviews,51.9142741,-8.1700962
+Little Haven Bed and Breakfast,"Little Haven Hoeys Lane, Dundalk Ireland",5,3,3,4,58,13,,,,,201,,,,,, Available Upon Request,5,158 reviews,53.987829,-6.38825
+Riversdale Bed & Breakfast,"Riversdale Balheary Road, Swords Ireland",5,3,3,4,58,13,,,,,Unknown,,,,,, Available Upon Request,4,108 reviews,53.4723971,-6.2223637
+Ballyglass Country House,"Glen of Aherlow Road, Tipperary Ireland",5,3,3,4,1,35,30,13,,,Unknown,,,,,, Available Upon Request,4.5,91 reviews,52.4297519,-8.1684711
+Auntie Bs Bed And Breakfast,"Portnoo Road, Ardara Ireland",5,3,3,4,1,12,30,13,,,Unknown,,,,,,90,5,11 reviews,54.7697155,-8.4091261
+Moorfield Lodge Boutique B&B,"Aughnagaddy Glebe, Ramelton Ireland",5,3,3,4,1,12,28,13,,,201,204,,,,, Available Upon Request,5,113 reviews,55.03615,-7.649239
+Cairbre House,"Carriglea House Old Hospital Road Abbeyside, Strandside North, Dungarvan Ireland",5,3,3,4,1,4,2,13,,,201,200,,,,, Available Upon Request,5,177 reviews,52.090485,-7.627665
+Kingfisher Lodge B&B,"Foxford Road, Ballina Ireland",5,3,3,4,1,2,13,47,,,Unknown,,,,,, Available Upon Request,5,36 reviews,54.1008958,-9.164181
+Corrib View Country House,"8 Road, Oughterard Ireland",5,3,3,4,1,2,13,,,,Unknown,,,,,, Available Upon Request,5,94 reviews,53.427585,-9.324626
+The Western Way Bed and Breakfast,"The Western Way Camp Street, Oughterard Ireland",5,3,3,4,1,2,13,,,,Unknown,,,,,, Available Upon Request,5,51 reviews,53.427585,-9.324626
+The Stables Townhouse & Restaurant,"The Stables 6 Oxmantown Mall, Birr Ireland",5,3,3,4,1,69,13,,,,201,,,,,, Available Upon Request,4.5,67 reviews,53.098082,-7.91179
+Brannens of Newport,"8 Main Street, Newport F28 F579 Ireland",5,3,3,4,1,32,35,13,,,Unknown,,,,,,89,5,56 reviews,52.81503,-8.963942
+Pier House Guest House,"Kilronan, Province of Connacht Ireland",5,3,3,4,1,32,58,13,,,203,201,,,,, Available Upon Request,4.5,238 reviews,53.1202153,-9.6694516
+Becketts Hotel,"Cooldrinagh House, Leixlip Ireland",5,3,3,4,1,13,87,57,,,201,204,,,,, Available Upon Request,4.5,170 reviews,53.361645,-6.4829
+Avalon Guest House,"Avalon Glen Road, Glenties Ireland",5,3,3,4,1,13,57,,,,201,200,,,,,87,5,103 reviews,54.796876,-8.282881
+The Olde Forge,Caherdaniel Ireland,5,3,3,4,1,13,,,,,Unknown,,,,,, Available Upon Request,4.5,72 reviews,51.7694578,-10.0992556
+Tailors Lodge,"Killegane, Castleisland Ireland",5,3,3,4,1,13,,,,,201,200,,,,, Available Upon Request,5,127 reviews,52.22433525,-9.453189524
+Forest Hill B&B,"Glann Rd, Derrymoyle, Oughterard H91AC93 Ireland",5,3,3,4,1,13,,,,,Unknown,,,,,, Available Upon Request,4.5,99 reviews,53.427585,-9.324626
+Crossriver Bed & Breakfast,"Glann Road, Oughterard H91 P6Y3 Ireland",5,3,3,4,1,13,,,,,Unknown,,,,,,76,4,67 reviews,53.427585,-9.324626
+Elm Brook B&B,"East Port Road, Ballyshannon Ireland",5,3,3,4,1,13,,,,,Unknown,,,,,, Available Upon Request,5,59 reviews,54.501152,-8.187528
+Ross House B&B,"Ross House No. 2 Quarry View Convent/Creggs Rd, Roscommon Ireland",5,3,3,4,1,13,,,,,Unknown,,,,,,80,5,86 reviews,53.631222,-8.187217
+Glenbarry B&B,"Glenbarry Ardross, New Ross Ireland",5,3,3,4,1,13,,,,,Unknown,,,,,, Available Upon Request,5,87 reviews,52.391797,-6.945708
+Ashley Lodge B&B,"Tagoat, Rosslare Ireland",5,3,3,4,1,13,,,,,201,,,,,,70,5,66 reviews,52.2435457,-6.390351
+Teach Gleann Dobhar,"An Gaineamh Glencolumbkille, Glencolmcille Ireland",5,3,3,4,1,30,13,47,,,201,200,,,,, Available Upon Request,5,89 reviews,54.7,-8.71667
+Viewmount House,"Knockahaw, Dublin Road, Longford Ireland",5,3,3,4,1,21,2,13,,,201,204,200,,,,160,5,282 reviews,53.7202613,-7.771557
+The Mill Dunfanaghy,"N56 Road, Dunfanaghy Ireland",5,3,3,4,1,21,13,,,,201,,,,,, Available Upon Request,5,146 reviews,55.168065,-8.00675
+Nagles Bar & Accommodation,"Kilsheelan, Clonmel Ireland",5,3,3,4,1,21,30,13,,,201,205,,,,,95,4.5,17 reviews,52.3907806,-7.618611275
+Townsend House Guest House,"Townsend House Townsend Street, Birr Ireland",5,3,3,4,1,21,30,,,,Suites,,,,,,120,4.5,132 reviews,53.093479,-7.905547
+Ross Lake House Hotel,"Rosscahill, Oughterard Ireland",5,3,3,4,1,21,31,13,,,201,200,,,,, Available Upon Request,4.5,209 reviews,53.427585,-9.324626
+McMunns of Ballybunion,"Main Street, Ballybunion Ireland",5,3,3,4,12,40,13,57,,,Unknown,,,,,,130,4.5,64 reviews,52.5098128,-9.6714594
+Ard Mhuiris,"Kilronan, Province of Connacht Ireland",5,3,3,4,12,14,13,87,,,201,200,,,,, Available Upon Request,4.5,112 reviews,53.1202153,-9.6694516
+Teahans Pebble 12 Guest House,"Cromane Lower, Killorglin V93YX80 Ireland",5,3,3,4,12,,,,,,Unknown,,,,,, Available Upon Request,5,9 reviews,52.101546,-9.898441
+Stonelodge Bed & Breakfast,"Riverchapel Gorey, Courtown Ireland",5,3,3,4,12,,,,,,Unknown,,,,,,95,5,17 reviews,52.6393194,-6.2358976
+Lisdanar House,"Lisdanar House Mill Road, Glenties Ireland",5,3,3,4,14,58,13,57,,,201,200,,,,, Available Upon Request,5,150 reviews,54.796876,-8.282881
+Anchor House Bed & Breakfast,"Quay Road, Newport Ireland",5,3,3,4,14,69,58,13,,,201,200,,,,, Available Upon Request,4,106 reviews,53.886394,-9.551248
+Bunratty Arms B&B,Bunratty Ireland,5,3,3,4,66,8,58,13,,,Unknown,,,,,, Available Upon Request,5,53 reviews,52.696671,-8.8155617
+Woodview House,"Coolcronan, Foxford Ireland",5,3,3,4,4,73,58, Currency exchange,,,201,200,,,,, Available Upon Request,5,1 review,54.033073,-9.129869
+Woodview House,"Coolcronan, Foxford Ireland",5,3,3,4,4,73,58, Currency exchange,,,201,200,,,,, Available Upon Request,5,1 review,54.033073,-9.129869
+Ash Cottage,"Ash Cottage Swan Lane Old Balreask, Navan C15 XK64 Ireland",5,3,3,4,4,13,,,,,201,204,200,,,, Available Upon Request,4.5,87 reviews,52.071488,-9.58855
+Bay View Boutique Bed & Breakfast,"Reenmeen East, Glengarriff P75 ED81 Ireland",5,3,3,4,4,13,,,,,201,,,,,, Available Upon Request,5,123 reviews,51.7527649,-9.5339047
+Maranatha Country House,"Marantha Country House Saint Anns Hill Tower, Blarney, Cork Ireland",5,3,3,4,4,58,13,92,,,201,204,200,,,,89,5,316 reviews,51.933193,-8.56995
+The Old Presbytery,"The Old Presbytery 43 Cork Street, Kinsale Ireland",5,3,3,4,4,32,58,13,,,201,200,,,,, Available Upon Request,5,"1,065 reviews",51.7068652,-8.5249191
+Coatesland House,"Coatesland House Killarney Road, Adare Ireland",5,3,3,4,4,13,47,,,,201,200,,,,, Available Upon Request,5,297 reviews,52.564214,-8.787174
+Coatesland House,"Coatesland House Killarney Road, Adare Ireland",5,3,3,4,4,13,47,,,,201,200,,,,, Available Upon Request,5,297 reviews,52.564214,-8.787174
+Walcot Bed and Breakfast,"Oxmantown Mall, Birr Ireland",5,3,3,4,4,23,58,13,,,Unknown,,,,,, Available Upon Request,5,112 reviews,53.0980119,-7.9103135
+Evergreen Bed & Breakfast,"Balheary Avenue, Swords Ireland",5,3,3,4,4,23,2,13,,,201,200,,,,,120,5,257 reviews,53.4869778,-6.2576911
+Avarest Bunratty B&B,"off the N18 dual-carriageway Hurlers Cross, Bunratty Ireland",5,3,3,4,2,58,52,13,,,201,200,,,,, Available Upon Request,5,253 reviews,52.667777,-8.557974
+Moyglare Lodge Country House,"Rosslare Road, Killinick, Rosslare Ireland",5,3,3,4,2,58,13,,,,201,200,,,,, Available Upon Request,5,132 reviews,52.2578207,-6.4449938
+Lissarda B&B,"Lissarda Old Spa Road, Clonmel Ireland",5,3,3,4,2,13,,,,,Unknown,,,,,, Available Upon Request,5,59 reviews,52.358893,-7.699462
+Castleview Farm Bed & Breakfast,Kildare Ireland,5,3,3,4,2,13,,,,,201,200,,,,, Available Upon Request,4.5,167 reviews,53.15436455,-6.818417566
+Ballinahoun Guest House,"Ballinahoun Country House BallinroadS Near The Seaside Village of Kilmuckridge, Gorey Y25 R5C2 Ireland",5,3,3,4,2,13,,,,,201,200,,,,, Available Upon Request,5,31 reviews,52.511071,-6.285646
+Littlewood B&B,"80 From M6 Motorway via N52 or N Culleen, Durrow, Tullamore Ireland",5,3,3,4,2,30,13,,,,Unknown,,,,,, Available Upon Request,5,50 reviews,53.276875,-7.49378
+Mountain View  B&B,"North Commons, Carlingford Ireland",5,3,3,4,2,28,13,,,,Unknown,,,,,, Available Upon Request,5,25 reviews,54.0293457,-6.200417139
+Anam Cara Luxury Guesthouse,"Carraigabruce, Cherry Orchard, Enniscorthy Ireland",5,3,3,4,61,13,,,,,Unknown,,,,,,99,5,92 reviews,52.507551,-6.572813
+Ashgrove House,"Low Road, Bunratty Ireland",5,3,3,4,72,13,,,,,201,200,,,,, Available Upon Request,4.5,174 reviews,52.698429,-8.8112956
+Loughrask Lodge Bed and Breakfast,Ballyvaughan Ireland,5,3,3,4,52,13,,,,,201,200,,,,, Available Upon Request,4.5,90 reviews,53.1152862,-9.1487092
+Caseys of Baltimore,Baltimore Ireland,5,3,3,4,45,58,13,57,,,203,201,200,,,,128,4.5,620 reviews,51.4833209,-9.3732052
+Cannaway House B&B,"Lehenagh, Carrigadrohid, Macroom Ireland",5,3,3,4,36,8,2,13,,,201,200,,,,, Available Upon Request,5,68 reviews,51.908784,-8.964574
+Macliam Lodge,"Macliam Lodge Western Road, Clonakilty Ireland",5,3,3,4,8,32,58,13,,,201,200,,,,, Available Upon Request,4.5,175 reviews,51.6212063,-8.901108575
+Dun Aonghus B & B,"Dun Aonghus Dun Aonghus Dun Aonghus Dun Aonghus Dun Aonghus Beggars End, Naas Ireland",5,3,3,4,8,32,58,13,,,201,200,,,,, Available Upon Request,4.5,27 reviews,53.23321,-6.652599
+Old Rectory,"The Old Rectory Cottage Herbert Road, Bray Ireland",5,3,3,4,8,13,47,,,,201,,,,,, Available Upon Request,4.5,79 reviews,53.19338165,-6.12928795
+Coolakay House,"Waterfall Road Coolakay, Enniskerry Ireland",5,3,3,4,32,2,13, Picnic area,,,201,200,,,,, Available Upon Request,4.5,446 reviews,53.188734,-6.193503
+Dollardstown House,"Dollardstown Kilkea, Athy Ireland",5,3,3,4,32,45,58,13,,,201,200,,,,, Available Upon Request,5,206 reviews,52.94963285,-6.912255909
+Grove Lodge Country House,"Killarney Road, Killorglin Ireland",5,3,3,4,32,33,35,13,,,Mountain view,201,200,,,,90,4.5,171 reviews,52.106227,-9.789865
+Mountain View Guesthouse,"Aughnanure, Oughterard Ireland",5,3,3,4,32,33,58,13,,,201,,,,,,80,4.5,182 reviews,53.4187385,-9.2755923
+Rolfs Country House,"Baltimore Hill, Baltimore P81 NW27 Ireland",5,3,3,4,32,30,62,13,,,201,204,200,,,,140,4.5,213 reviews,51.542843,-9.267829
+Highfield House,"Castle Sreet Trim   Co Meath, Trim Ireland",5,3,3,4,33,13,47,99,,,201,200,,,,,135,4.5,555 reviews,53.553719,-6.791154
+Grove House B&B,"Grove House Grove Road, Carlingford Ireland",5,3,3,4,33, Windsurfing,58,13,,,201,200,,,,, Available Upon Request,4.5,139 reviews,54.0262305,-6.1740646
+Barrow View Bed and Breakfast,"Co carlow, Borris R95 T9D7 Ireland",5,3,3,4,57,,,,,,Unknown,,,,,, Available Upon Request,4.5,15 reviews,52.839142,-6.930041
+Hamills B&B,"Hamills B&B High Street, Ballinamore Ireland",5,3,3,4,13,99,,,,,201,200,,,,, Available Upon Request,5,154 reviews,54.05,-7.8
+The Garden Gates B & B,"Rinnaseer Islandeady, Castlebar Ireland",5,3,3,4,13,57,,,,,201,200,,,,, Available Upon Request,5,108 reviews,53.8305283,-9.403524627
+The Harbour Masters House,"Shannon Harbour, Birr Ireland",5,3,3,4,13,57,,,,,Unknown,,,,,, Available Upon Request,5,62 reviews,53.2216586,-7.9517092
+The Failte B&B,"Main Street, Slane Ireland",5,3,3,4,13,57,,,,,201,,,,,, Available Upon Request,4,55 reviews,53.7090675,-6.5426177
+Valleylodge Farm Hostel,"Valley Lodge Valley Lodge Valley Lodge Valley Lodge Facefield, Claremorris Ireland",5,3,3,4,13,54,47,57,,,201,200,,,,, Available Upon Request,5,46 reviews,52.660331,-7.25981
+San Antoine B&B,"New Street, Cahersiveen Ireland",5,3,3,4,13,47,,,,,201,200,,,,, Available Upon Request,5,108 reviews,51.945229,-10.2295421
+Balally House B&B,"Ros an Oir Ballycasey, Shannon Ireland",5,3,3,4,13,47,,,,,201,200,,,,, Available Upon Request,5,102 reviews,52.701357,-8.907781
+Sea Breeze Bed and Breakfast,"Reenard Road, Cahersiveen Ireland",5,3,3,4,13,,,,,,Unknown,,,,,, Available Upon Request,5,200 reviews,51.933245,-10.2409958
+St. Josephs B&B,"Main Street, Roundstone Ireland",5,3,3,4,13,,,,,,Unknown,,,,,, Available Upon Request,4.5,99 reviews,53.3957105,-9.9202716
+Lynchs B&B,"OConnell Street, Kilkee Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,4.5,154 reviews,52.6790223,-9.6429979
+Hillcrest View Bed and Breakfast,"Hillcrest Hillcrest Hillcrest 67) Doonbeg Road (off N, Kilrush Ireland",5,3,3,4,13,,,,,,201,,,,,, Available Upon Request,5,161 reviews,52.640415,-9.485395
+Woodlands Guest Accommodation,"Cregg Rd, Oughterard H91 TR62 Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,5,174 reviews,53.427585,-9.324626
+Ardmor Country House Spiddal,"Spiddal House Spiddal House Spiddal House Spiddal House Greenhill, Spiddal Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,5,141 reviews,53.245513,-9.305622
+Station House B & B,"Ennis Road, Ennistymon Ireland",5,3,3,4,13,,,,,,201,200,,,,,85,4.5,80 reviews,52.939188,-9.291955
+Oceanville House Bed & Breakfast,"Coast Road, Ballyvaughan Ireland",5,3,3,4,13,,,,,,Unknown,,,,,, Available Upon Request,4.5,98 reviews,53.117909,-9.153595001
+Melrose Bed & Breakfast,"The Miles Clonakilty, Co.Cork, Clonakilty Ireland",5,3,3,4,13,,,,,,Unknown,,,,,,95,4.5,75 reviews,51.61964645,-8.908826483
+Briar Lodge,"Hill Road, Bunratty Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,5,106 reviews,52.696671,-8.8155617
+ParkHouse Bed & Breakfast,"Low Road, Bunratty Ireland",5,3,3,4,13,,,,,,201,200,,,,,85,5,338 reviews,52.698429,-8.8112956
+Tara Farmhouse,"Ballina Road, Enniscrone Ireland",5,3,3,4,13,,,,,,Unknown,,,,,, Available Upon Request,5,54 reviews,54.051236,-8.736272
+Bridgeview Farmhouse,"Harbour View, Kilbrittain Ireland",5,3,3,4,13,,,,,,Unknown,,,,,,90,5,176 reviews,51.6571691,-8.6753616
+Glenwood House,"Ballinrea Road, Carrigaline Ireland",5,3,3,4,13,,,,,,Unknown,,,,,, Available Upon Request,5,65 reviews,51.8405759,-8.4132944
+Fallons Bed and Breakfast,"Main Street, Kinvara Ireland",5,3,3,4,13,,,,,,201,200,,,,,100,4.5,368 reviews,51.9175047,-8.337825693
+Ard Na Greine,"Ard Na Greine Ard Na Greine Ard Na Greine Ballinascarthy, Clonakilty Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,5,94 reviews,53.268559,-7.476239
+Dunromin B&B,"Dublin Road, Kilkenny Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,5,311 reviews,52.6546245,-7.2457983
+Barrowville Town House,"Barrowville Town House Kilkenny Road, Carlow Ireland",5,3,3,4,13,,,,,,Unknown,,,,,, Available Upon Request,5,67 reviews,52.826645,-6.937887
+Green Lane House,"Green Lane House Green Lane, Carlow Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,5,46 reviews,52.8378282,-6.9215559
+Whitelodge B&B,"New Rd. and Navan Rd. Junction Lackanash, Trim C15P5V6 Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,4.5,151 reviews,53.557279,-6.792431
+Briseadh Na Carraige,Spiddal Ireland,5,3,3,4,13,,,,,,Unknown,,,,,, Available Upon Request,5,59 reviews,53.8120301,-6.743311586
+Killurin Lodge,Killurin Ireland,5,3,3,4,13,,,,,,201,200,,,,,65,4.5,66 reviews,52.38434825,-6.605405315
+Moat Lodge,"Adamstown Road, Lucan Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,4.5,124 reviews,53.3369688,-6.4537924
+Clareview House,Kinvara Ireland,5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,4.5,152 reviews,53.2908622,-6.1902569
+Carlingford House,"Dundalk Street, Carlingford Ireland",5,3,3,4,13,,,,,,201,,,,,,90,5,186 reviews,54.0361646,-6.1845932
+Treetops B&B,"Tree Tops Treetops Kilgobnet, Dungarvan X35 WC91 Ireland",5,3,3,4,13,,,,,,Unknown,,,,,,110,5,12 reviews,53.266674,-6.157468
+Beechwood Country House,"Blackwood Lane, Malahide Ireland",5,3,3,4,13,,,,,,201,200,,,,, Available Upon Request,4.5,118 reviews,53.4340875,-6.1486219
+Gleann-na-Smol B&B,"Kilrock Road, Howth 3 Ireland",5,3,3,4,13,,,,,,Unknown,,,,,, Available Upon Request,4,132 reviews,53.3854222,-6.0602953
+Tullybryan House B&B,"Tullybryan Clones Rd, Monaghan Ireland",5,3,3,4,30,13,,,,,Unknown,,,,,, Available Upon Request,4.5,85 reviews,54.161295,-6.916131
+Petitswood House B&B,"Dublin Road, Mullingar Ireland",5,3,3,4,30,,,,,,Unknown,,,,,, Available Upon Request,5,9 reviews,53.52577,-7.3297592
+An Caladh Gearr Thatch Cottage B+B,"Cnoc, Spiddal Ireland",5,3,3,4,23,58,13,57,,,201,204,200,,,, Available Upon Request,5,49 reviews,53.28480555,-9.259984824
+Bunratty Villa,"Low Road, Bunratty Ireland",5,3,3,4,23,58,13,57,,,201,200,,,,, Available Upon Request,5,123 reviews,52.698429,-8.8112956
+PK Lodge,"Smorane, Skibbereen Ireland",5,3,3,4,23,58,13,,,,201,200,,,,,160,4.5,81 reviews,51.5600229,-9.228516
+Glen na Smole Bed and Breakfast,"Glen Na Smole Ashtown Lane Marlton Road, Wicklow Ireland",5,3,3,4,23,58,13,,,,Unknown,,,,,,90,4.5,114 reviews,52.9784,-6.047986
+Evergreen B&B,"Kinsaley Lane, Malahide Co Dublin Ireland",5,3,3,4,23,58,89,,,,201,200,,,,, Available Upon Request,5,316 reviews,53.4320257,-6.180691751
+Millhouse B&B,Ballymote Ireland,5,3,3,4,23,8,58,13,,,201,200,,,,, Available Upon Request,5,75 reviews,54.0885294,-8.5155338
+Sneem River Lodge B&B,Sneem Ireland,5,3,3,4,23,32,58,81,,,Unknown,,,,,, Available Upon Request,4.5,107 reviews,51.86788405,-9.893756393
+Blindgate House,"Blindgate House Blind Gate, Kinsale P17 PX61 Ireland",5,3,3,4,23,13,92,,,,201,200,,,,, Available Upon Request,5,350 reviews,51.7036495,-8.5254223
+Knockeven House,"Rushbrooke, Cobh Ireland",5,3,3,4,23,13,47,,,,201,200,,,,,125,5,384 reviews,51.8495125,-8.3220377
+Brookhaven B&B,"Foildarrig, Castletownbere P75P921 Ireland",5,3,3,4,,,,,,,Unknown,,,,,, Available Upon Request,5,22 reviews,51.655515,-9.908128
+Lakeview Lodge B&B,"Baltyboys, Blessington Ireland",5,3,3,4,,,,,,,201,204,,,,, Available Upon Request,5,99 reviews,53.147066,-6.536356
+Lakemount House B&B,"Melrose Grove, Iveragh Road, Killorglin Ireland",5,3,3,8,58,13,,,,,201,,,,,, Available Upon Request,4.5,23 reviews,52.1062549,-9.7910908
+Bundoran Surf Company Surf Lodge,"Main Street, Bundoran Ireland",5,3,3,8,79,58,13,,,,201,200,,,,, Available Upon Request,4.5,50 reviews,54.4810049,-8.2722434
+Fortview Bed and Breakfast,"Frankford, Enniscrone Ireland",5,3,3,8,2,13,,,,,201,,,,,,88,4,10 reviews,54.2138365,-9.0804609
+St. Martins Bed & Breakfast,"Saint Martins Saint Martins Road, Rosslare Ireland",5,3,3,8,32,58,13,47,,,201,200,,,,, Available Upon Request,4,192 reviews,52.269932,-6.390259
+Woodville,"Woodville Ballywaltrim Lane, Bray Ireland",5,3,3,8,32,45,13,,,,Unknown,,,,,, Available Upon Request,5,26 reviews,53.1861163,-6.1356339
+Boyne View Bed & Breakfast,"Drinadaly, Trim Ireland",5,3,3,8,32,33,2,13,,,201,200,,,,, Available Upon Request,5,199 reviews,53.557279,-6.792431
+Hillview B&B,"Greystones Road, Bray Ireland",5,3,3,8,32,33,2,13,,,Unknown,,,,,, Available Upon Request,4.5,59 reviews,53.1757266,-6.0957314
+Woodview Lodge Bed & Breakfast,Castlebar Ireland,5,3,3,8,33,31,13,,,,Unknown,,,,,,80,4.5,46 reviews,53.8568418,-9.297967
+Athlumney Manor B&B,"Athlumney Road, Navan Ireland",5,3,3,33,45,13,89,38,,,201,200,,,,, Available Upon Request,4.5,392 reviews,53.6532776,-6.6767932
+McCormacks Guesthouse,"Old Dublin Road Marlinstown, Mullingar N91 F683 Ireland",5,3,3,29,11,31,30,13,,,Unknown,,,,,, Available Upon Request,5,42 reviews,53.520938,-7.337426
+Tullybuck Cottage,"Tullybuck Clontibret, Monaghan Ireland",5,3,3,29,,2,96,,,,Unknown,,,,,, Available Upon Request,5,6 reviews,54.20361,-6.83833
+Glen House Bed & Breakfast,"Glen House South Cross Road, Youghal Ireland",5,3,3,13,92,,,,,,201,,,,,, Available Upon Request,5,28 reviews,51.950458,-7.845796
+Ballinsheen House & Gardens,"Galway Road, Lisdoonvarna Ireland",5,3,3,13,,,,,,,201,204,200,,,,95,5,201 reviews,53.490499,-10.014814
+Suncroft Bed and Breakfast,"Suncroft 3 Cathedral Close, Ballina Ireland",5,3,3,13,,,,,,,Unknown,,,,,, Available Upon Request,4.5,70 reviews,54.112633,-9.149418
+Quignalegan House,"Sligo Road, Ballina Ireland",5,3,3,13,,,,,,,Unknown,,,,,,70,4.5,44 reviews,54.1184953,-9.1411716
+The Lake House B&B,"Mohona, Dunmanway Ireland",5,3,3,13,,,,,,,201,200,,,,, Available Upon Request,5,79 reviews,51.70345455,-9.113361839
+Castleview House,"Clonshire, Adare Ireland",5,3,3,13,,,,,,,201,200,,,,, Available Upon Request,4.5,45 reviews,52.54964675,-8.845453251
+Cloisters Bed & Breakfast,"The Cloisters 2 Friars Street, Kinsale Ireland",5,3,3,13,,,,,,,201,200,,,,, Available Upon Request,5,453 reviews,51.7069177,-8.5255633
+Bansha Castle,"Ballinlough East, Bansha Ireland",5,3,3,13,,,,,,,Unknown,,,,,, Available Upon Request,5,174 reviews,52.44502985,-8.062617955
+Novara House Bed & Breakfast,"Dublin Rd., Mullingar Ireland",5,3,3,13,,,,,,,Unknown,,,,,, Available Upon Request,5,77 reviews,53.52577,-7.3297592
+Grove Lodge B&B,"Old Armagh Road Latlurcan, Monaghan Ireland",5,3,3,13,,,,,,,201,,,,,, Available Upon Request,4.5,27 reviews,54.264397,-6.861117
+Bothar Alainn House B&B,"Balreask New, Trim Road, Navan Ireland",5,3,3,13,,,,,,,Unknown,,,,,, Available Upon Request,4.5,45 reviews,53.656849,-6.678985
+Bridge Bed and Breakfast,"Jigginstown Green, Naas 1234 Ireland",5,3,3,13,,,,,,,201,,,,,, Available Upon Request,4.5,26 reviews,53.215212,-6.678551
+Perrymount Country Home,"Inch, Gorey Ireland",5,3,3,13,,,,,,,201,,,,,, Available Upon Request,4.5,39 reviews,52.7387321,-6.2287502
+Mount Usher View,"Ashford, Wicklow Ireland",5,3,3,13,,,,,,,Unknown,,,,,, Available Upon Request,4.5,29 reviews,53.0110876,-6.1083836
+Robins Nest,"1 Loughross Point, Ardara Ireland",5,3,3,30,28,,,,,,Unknown,,,,,, Available Upon Request,5,4 reviews,54.764831,-8.407678
+The Old Cable Historic House,"The Old Cable House 9/10 Iveragh Terrace Old Telegraph Cable Station Milestone Heritage Site Waterville Ring of Kerry, Waterville Ireland",5,3,3,21,30,13,,,,,201,,,,,,79,4,216 reviews,53.299554,-6.189663
+Tannery Townhouse,"10 Quay Street, Dungarvan Ireland",5,3,3,21,23,62,13,,,,201,,,,,, Available Upon Request,4.5,185 reviews,52.0886636,-7.6167185
+Slieve Elva Farmhouse B&B,"Slieve Elva, Kilmoon, Lisdoonvarna Ireland",5,3,3,23,67,60,84,95,13,89,201,200,,,,,85,4.5,70 reviews,53.082821,-9.269218
+Willowbrook Bed & Breakfast,"Willowbrook 52 Portroe Rd / N. Junction Belleen, Nenagh E45 VX08 Ireland",5,3,3,23,51,43,58,13,,,201,200,,,,, Available Upon Request,5,188 reviews,52.863485,-8.20395
+Park South Bed & Breakfast,"Doneraile, Mallow Ireland",5,3,3,23,32,58,13,38,,,201,200,,,,, Available Upon Request,5,276 reviews,52.22110815,-8.584542018
+Park South Bed & Breakfast,"Doneraile, Mallow Ireland",5,3,3,23,32,58,13,38,,,201,200,,,,, Available Upon Request,5,276 reviews,52.22110815,-8.584542018
+Annaharvey Farm Bed and Breakfast,"Annaharvey Farm Portarlington Road, Tullamore Ireland",5,3,3,23,33,30,58,13,,,201,200,,,,,120,4.5,58 reviews,53.276875,-7.49378
+Glencora B & B,"Upper Bridge Street, Skibbereen Ireland",5,3,3,,,,,,,,Unknown,,,,,, Available Upon Request,5,30 reviews,51.5510175,-9.2765562
+Hillcrest Country Home,"Clonshire Croagh, Adare Ireland",5,3,3,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,38 reviews,52.54964675,-8.845453251
+Woodside B&B,"Woodside Dublin Road, Mullingar Ireland",5,3,3,,,,,,,,Unknown,,,,,, Available Upon Request,5,31 reviews,53.52577,-7.3297592
+Keernaun House,"Dublin Road, Dundalk A91E421 Ireland",5,3,3,,,,,,,,Unknown,,,,,,65,4.5,58 reviews,54.000337,-6.398438
+Roseville Lodge B & B,"Roseville Lodge Georges Street, Drogheda Ireland",5,3,3,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,24 reviews,53.715935,-6.357352
+Glengarriff Park Hotel,"The Village, Glengarriff Ireland",5,3,48,1,51,32,35,60,84,95,202,201,204,,,, Available Upon Request,4.5,662 reviews,51.7501967,-9.5499762
+Temple House,"Templehouse Demesne, Ballymote F56 NN50 Ireland",5,3,48,4,93,68,69,61,,,Landmark view,202,201,204,200,,195,5,231 reviews,52.053412,-9.516822
+Corcreggan Mill,"N56 Castlebane, Dunfanaghy F92 XN88 Ireland",5,3,1,64,32,69,71,79,,,Mountain view, Landmark view,201,200,,, Available Upon Request,4.5,352 reviews,54.944794,-7.700508
+Caiseal Mara Hotel,"Caiseal Mara Hotel Foyle Street, Moville Ireland",5,3,1,12,35,2,63,65,,,Unknown,,,,,, Available Upon Request,4,56 reviews,55.191281,-7.041766
+Bellbridge House Hotel,Spanish Point Ireland,5,3,1,12,44,35,65,62,,,203,202,201,200,,, Available Upon Request,4.5,847 reviews,52.8497247,-9.438044
+Giltraps Townhouse & Glamping,"Kinnitty Village, Kinnitty Ireland",5,3,1,14,14,35,79,58,,,201,,,,,,89,5,334 reviews,53.07851365,-7.701856899
+Sleepzone @ The Connemara Hostel,Leenane Ireland,5,3,1,14,36,60,84,95,79,58,201,200,,,,,69,4,172 reviews,53.5958058,-9.6942245
+Hoeys Bridge Hotel,"Bridge Street, Arklow Ireland",5,3,1,44,58,13,100,92,,,201,,,,,,110,4.5,29 reviews,52.7979221,-6.1526892
+Ravine House Hotel,Lisdoonvarna Ireland,5,3,1,8,72,2,13,47,,,201,200,,,,, Available Upon Request,4,69 reviews,53.0266786,-9.270494881
+Russagh Mill Hostel,"Castletownsend Road Russagh, Skibbereen P81EV84 Ireland",5,3,4,51,36,60,84,95,2,30,201,200,,,,, Available Upon Request,4.5,94 reviews,51.544795,-9.265267
+Mount Falcon Estate,"Foxford Road, Ballina Ireland",5,3,49,4,93,14,35,60,84,95,202,201,204,,,, Available Upon Request,4.5,"1,252 reviews",54.1008958,-9.164181
+Cavangarden House,"Donegal Road, Ballyshannon Ireland",5,3,4,35,2,30,57,,,,Unknown,,,,,, Available Upon Request,4,58 reviews,54.5038202,-8.1922133
+Tulfarris Hotel and Golf Resort,"Blessington Lakes Wicklow, Blessington W91 EE95 Ireland",5,3,4,14,8,35,71,63,,,Mountain view,202,201,204,200,, Available Upon Request,4.5,"1,440 reviews",53.17,-6.5325
+Belleek Castle,"Belleek Woods Garrankeel, Ballina Ireland",5,3,4,14,32,65,62,13,,,201,,,,,,331,4.5,660 reviews,54.478706,-8.094306
+Brooklawn House Bed & Breakfast,"Lough Rynn, Mohill Ireland",5,3,4,14,32,30,13, Outdoor fireplace,,,201,200,,,,,120,5,102 reviews,53.88421375,-7.849358351
+Lakeside Manor Hotel,"Dublin Road, Virginia Ireland",5,3,4,75,45,35,61,65,,,202,201,204,,,,75,3.5,774 reviews,53.8282904,-7.0639377
+The Downhill Inn,"Sligo Road, Ballina Ireland",5,3,4,2,58, Currency exchange,87,100,,,Unknown,,,,,, Available Upon Request,3.5,221 reviews,54.1184953,-9.1411716
+Windermere House,"Westport Road, Castlebar Ireland",5,3,4,13,,,,,,,201,200,,,,, Available Upon Request,5,127 reviews,53.8486692,-9.3091893
+Castle Leslie Estate,"Glaslough Village, Glaslough H18 RX05 Ireland",5,3,29,10,1,93,14," ""Childrens playground""",,,202,201,204,200,205,,250,4.5,"1,967 reviews",54.31861,-6.895
+The Ashbrook Arms Restaurant and Guesthouse,"The Square, Durrow na Ireland",5,3,3,4,1,21,34,13,,,201,200,,,,,130,4.5,177 reviews,52.8459194,-7.3949033
+An Corrach Mor,"An Corrach Mor Coilleach, Spiddal Ireland",5,3,3,13,,,,,,,Unknown,,,,,, Available Upon Request,5,30 reviews,53.243911,-9.305344
+Clonganny House,"Ballygarrett, Gorey Y25 WV30 Ireland",5,3,3,21,13,,,,,,201,,,,,, Available Upon Request,5,59 reviews,52.5725,-6.22611
+Inchydoney Island Lodge & Spa,Clonakilty Ireland,5,3,9,11,1,12,14,35,,,203,202,201,204,200,,209,4.5,"2,699 reviews",51.6229346,-8.8870112
+Quality Hotel & Leisure Center Youghal,"Redbarn 12, Youghal Ireland",5,3,9,11,1,12,36,35,,,203,201,200,,,, Available Upon Request,4,"1,189 reviews",53.105787,-6.061353
+Clonakilty Park Hotel,"Park Road, Clonakilty P85 RD23 Ireland",5,3,9,11,1,14,36,35,,,201,200,,,,,115,4,996 reviews,51.6169463,-8.8963211
+Redcastle Hotel,"Inishowen Peninsula, Moville F93 Y660 Ireland",5,3,9,11,1,8,35, Kids 9,,,203,202,201,204,200,,165,4,"2,413 reviews",55.19183,-7.049542
+Castlemartyr Resort,"Ladysbridge Rd, Castlemartyr P25 X300 Ireland",5,3,9,11,1,8,32,35,,,202,201,204,200,,, Available Upon Request,4.5,"2,541 reviews",51.902961,-8.045192
+Faithlegg Hotel,"Dunmore Road Waterford, Faithlegg X91 HV52 Ireland",5,3,9,11,1,8,32,35,,,202,201,204,200,,,219,4,"2,215 reviews",52.249918,-7.094739
+Kilronan Castle Estate & Spa,Ballyfarnon Ireland,5,3,9,11,4,35,71,63,,,202,201,204,200,,,209,4.5,"1,845 reviews",54.0728302,-8.2046517
+Great Northern Hotel,"Sea Road, Bundoran Ireland",5,3,9,11,4,12,14,2,,,203,202,201,204,200,,180,4,"1,535 reviews",54.482856,-8.272173
+Harbour House & Leisure Centre,"Scraggane Pier, Castlegregory Ireland",5,3,9,11,4,12,2,62,,,201,200,,,,, Available Upon Request,3.5,144 reviews,52.3106853,-10.0338953
+Connemara Coast Hotel,"Spiddal Road, Furbo H91 KX27 Ireland",5,3,9,11,4,12,31,35,,,203,201,204,200,,,149,4,991 reviews,53.25196,-9.209537
+"Jacksons Hotel, Conference & Leisure Centre","Main Street, Ballybofey Ireland",5,3,9,11,4,45,70,2,,,202,201,204,200,,,119,4,426 reviews,54.8036519,-7.7717817
+Moorepark West House,"Moorepark West, Fermoy Ireland",5,3,3,29,4,13,,,,,Unknown,,,,,,68,4.5,8 reviews,52.1645474,-8.260059688
+OSheas Hotel,"OSheas Hotel Strand Street Tramore,  Co. Waterford, Tramore Ireland",5,3,21,72,35,30,73,58,,,Unknown,,,,,,131,3.5,249 reviews,52.1598183,-7.1503878
+Seaview House Hotel,"Ballylickey, Bantry Ireland",5,3,10,4,35,30,58,13,,,201,204,200,,,, Available Upon Request,4.5,242 reviews,51.676542,-9.440919
+Ross House Equestrian Holidays,"Ross House Ross, Co. Cavan, Mountnugent Ireland",5,3,23,33,31,2,30,62,,,201,204,200,,,,95,4,76 reviews,52.395177,-6.942495
+Knockree Youth Hostel,"Lacken House Lackandarragh, Enniskerry Ireland",5,3,50,36, Table tennis,62,79,58,,,201,200,,,,, Available Upon Request,4,130 reviews,53.188734,-6.193503
+Ben Lettery Connemara Hostel,"Connemara, Recess Ireland",5,3,3,67,13,89, Picnic area,54,,,201,,,,,, Available Upon Request,4.5,63 reviews,53.4665017,-9.7256654
+Ballycommane House & Garden,"Ballycommane, Durrus P75 A020 Ireland",5,3,3,4,32,58,13,92,,,Landmark view,201,,,,, Available Upon Request,5,64 reviews,51.6276613,-9.4847209
+Connemara Country Cottages,"Leam East Oughterard, Recess Ireland",5,3,3,57,82,,,,,,Unknown,,,,,, Available Upon Request,4,91 reviews,53.427585,-9.324626
+River Lodge B&B,"Riverlodge Church Hill, Wicklow Ireland",5,3,3,13,,,,,,,201,200,,,,, Available Upon Request,4,54 reviews,52.986662,-6.049702
+Ash Hill B&B,"Charliville Road, Kilmallock Ireland",5,3,,,,,,,,,201,,,,,,111,4.5,22 reviews,52.39922,-8.571278
+Lios na Mara,"Station Road, Lahinch Ireland",5,8,32,45,59,96,,,,,Unknown,,,,,, Available Upon Request,3.5,12 reviews,52.9319382,-9.3407859
+Rock Farm Slane,"The Rock Farm Fennor, Slane C15 FNP4 Ireland",5,29,14,51,35,2,30,62,,,202,,,,,,757,4.5,387 reviews,52.7079,-7.599258
+Millstone Cottages,"Tirhomin, Milford Ireland",5,29,2,69,59,96,,,,,Unknown,,,,,, Available Upon Request,5,97 reviews,55.090704,-7.701233
+The Waters Country House,"Newtown Ballyvaughan, Co. Clare, Ballyvaughan Ireland",5,3,4,1,32,33,58, Chapel / shrine,,,202,201,200,,,,100,4.5,192 reviews,53.114967,-9.149776
+Bogbean Cafe and B&B,Roundstone Ireland,5,17,3,3,21,51,2,13,,,201,,,,,, Available Upon Request,5,28 reviews,53.3957105,-9.9202716
+Shannon Springs Hotel,"Ballycasey, Shannon Ireland",5,20,3,1,62,13,99,57,,,201,,,,,,93,4,658 reviews,52.7175358,-8.8486581
+Smugglers Inn,"Cliff Road, Waterville V23 CY99 Ireland",5,20,3,4,12,32,40,13,,,Unknown,,,,,, Available Upon Request,4,181 reviews,52.152069,-7.162091
+Mullingar B&B,"9 Oliver Plunkett Street, Mullingar Ireland",5,20,3,3,13,,,,,,201,200,,,,,80,4,43 reviews,53.5253215,-7.342371
+Dublin Airport Manor by theKeyCollection,"Naul Road, Swords Ireland",5,20,3,3,4,13,,,,,201,200,,,,, Available Upon Request,4,362 reviews,53.4494412,-6.2608009
+Edenvale Bed & Breakfast,"Edenvale Portnoo, Narin-Portnoo Ireland",5,20,3,3,4,12,8,13,,,201,204,,,,, Available Upon Request,5,53 reviews,53.281033,-6.273936
+Seamount House,"Seamount House 18 Seamount View Malahide Road, Swords Ireland",5,20,3,3,4,13,,,,,201,,,,,, Available Upon Request,4,96 reviews,53.454642,-6.206187
+The Stone House B&B,"The Stone House Lifeboat Road Co. Cork, Baltimore P81 VP77 Ireland",5,20,3,3, Outdoor 9,4,35,13,,,Unknown,,,,,, Available Upon Request,5,141 reviews,51.897842,-8.478911
+Shannonside House B&B,"Westlodge Road Battery Road, Athlone N37 HF67 Ireland",5,20,3,3,9,4,1,13,,,201,200,,,,,77,4.5,231 reviews,53.428516,-7.940076
+Carleton Village,"90 Carleton Village, Youghal Ireland",5,9,12,14,2,98,13,82,,,201,200,,,,, Available Upon Request,5,131 reviews,51.9481535,-7.8469152
+Moneylands Farm,"Moneylands Farm, Arklow Ireland",5,9,42,31,79,58,92,57,,,Unknown,,,,,,99,4.5,84 reviews,53.01249,-8.000549
+Moore Bay Holiday Homes,"Carrigaholt Road, Kilkee Ireland",5,9,9,8,32,31, Windsurfing,58,,,Unknown,,,,,, Available Upon Request,1.5,3 reviews,52.683225,-9.644029
+Esplanade Hotel,"Strand Road, Bray Ireland",5,21,12,32,35,62,58, Currency exchange,,,203,202,201,,,, Available Upon Request,3,749 reviews,53.2046116,-6.0993866
+Loughcrew Megalithic Hostel,"Summerbank, Oldcastle Ireland",5,21,2,76,82,,,,,,Unknown,,,,,, Available Upon Request,4.5,15 reviews,53.7529769,-7.1318407
+Aughrim Holiday Village,"Aughrim, County Wicklow, Republic of Ireland, Aughrim Ireland",5,21,2,,,,,,,,Unknown,,,,,, Available Upon Request,4.5,22 reviews,52.852688,-6.33671
+Newcastle House,"Newcastle Woods, Ballymahon Ireland",5,22,1,2,62,58,81,87,,,200,,,,,, Available Upon Request,5,2 reviews,53.565711,-7.766663
+Beechwood House Bed & Breakfast,"Castletown Rd. Inchintaggart, Glengarriff Ireland",5,22,12,8,32,51,13,47,,,Unknown,,,,,, Available Upon Request,4.5,18 reviews,54.016598,-6.431393
+Malinbeg Hostel,"Malinbeg, Glencolmcille Ireland",5,22,51,43,58,13,92,57,,,201,200,,,,, Available Upon Request,5,108 reviews,54.7096992,-8.7182291
+Woodleigh Lodge,"Red Row, Courtown Ireland",5,22,3,12,8,2,13,89,,,Unknown,,,,,,100,5,18 reviews,52.6430905,-6.2368395
+Atlantic View Bed & Breakfast,"Toor, Waterville Ireland",5,22,3,12,8,32,79,13,,,Unknown,,,,,, Available Upon Request,4.5,2 reviews,52.061892,-8.508926
+Carton View B&B,"Blakestown Carton View, Leixlip Ireland",5,22,3,2,40,,,,,,Unknown,,,,,, Available Upon Request,4,7 reviews,53.368651,-6.495972
+Windsor Lodge,"1, The Court North Road, Drogheda Ireland",5,22,3,4,58,13,100,57,,,201,200,,,,, Available Upon Request,4.5,256 reviews,53.7211133,-6.3586353
+Beaufort House B&B,"Beaufort House Ring Road Mountgarrett, New Ross 222 Ireland",5,22,3,4,58,13,100,92,,,201,204,200,,,, Available Upon Request,4.5,66 reviews,52.411975,-6.935124
+MourneView Bed & Breakfast,"Crossalaney Road, Belmont, Carlingford A91E7WK Ireland",5,22,3,4,67,79,13,92,,,201,200,,,,, Available Upon Request,4.5,137 reviews,54.035773,-6.184799
+Gormagh B&B,"Gormagh, Durrow, Tullamore Ireland",5,22,3,4,67,60,84,95,58,13,201,200,,,,, Available Upon Request,5,74 reviews,53.30942725,-7.497643799
+Augherea Guest House,"Aghareagh, Longford Ireland",5,22,3,4,8,51,58,13,,,201,,,,,, Available Upon Request,5,115 reviews,53.7234786,-7.4956791
+Riverview House Bed and Breakfast,"Summerhill, Old Galway Rd, R446, Athlone Ireland",5,22,3,4,8,45,58,13,,,201,200,,,,,80,4.5,57 reviews,53.428516,-7.940076
+Corrib Wave House,"Portacarron Connemara, Oughterard Ireland",5,22,3,4,8,33,58,13,,,201,200,,,,, Available Upon Request,4,88 reviews,53.42952635,-9.284157634
+Rockville House B&B,"Rockville House 10 Moor Lane, Cashel Ireland",5,22,3,4,32,58,13,92,,,201,200,,,,,72,4.5,314 reviews,52.518916,-7.887983
+Orley House,"7 Dublin Road, Drogheda Ireland",5,22,3,4,32,33,58,13,,,201,,,,,, Available Upon Request,4,101 reviews,53.7110264,-6.3356949
+Tulloch,"Knavinstown, Kildare Ireland",5,22,3,8,32,28,13,47,,,Unknown,,,,,, Available Upon Request,3.5,14 reviews,53.1735307,-6.9867029
+Abhainn Ri,"Ballintober Hollywood, Blessington W91W2P1 Ireland",5,22,3,32,45,2,58,13,,,201,200,,,,,182,5,197 reviews,53.71667,-8.41667
+Drumbarron House,"Drumbarron House The Diamond, Ardara Ireland",5,22,3,3,1,8,58,13,,,Unknown,,,,,, Available Upon Request,5,34 reviews,54.761797,-8.413363
+Ard Aoibhinn Bed & Breakfast,Spiddal Ireland,5,22,3,3,13,47,,,,,Unknown,,,,,, Available Upon Request,4.5,30 reviews,53.8120301,-6.743311586
+Loughrea BnB Lakeside,"Barrack Street, Loughrea Ireland",5,22,3,30,79,58,13,89,,,200,,,,,,70,5,2 reviews,53.1975883,-8.5696973
+Keyfield House,"Keyfield Mullingar Lynn, Mullingar N91P7VO Ireland",5,22,3,21,8,2,13,47,,,Unknown,,,,,, Available Upon Request,5,7 reviews,53.520938,-7.337426
+Donemark Rise B&B,"Dunamark Rise Droumacoppil, Bantry Ireland",5,22,3,23,14,8,13,89,,,201,,,,,, Available Upon Request,5,40 reviews,51.676542,-9.440919
+Hill View Farm,"Drumsheel, Cong Ireland",5,22,3,23,8,35,13,89,,,201,200,,,,, Available Upon Request,4.5,47 reviews,53.5617365,-9.289901524
+Athgarvan B&B,"1 Milford, Newbridge Ireland",5,22,3,23,8,2, Adults only,13,,,201,,,,,, Available Upon Request,4.5,31 reviews,53.180148,-6.799884
+Riverwalk House,"Riverside, Oughterard Ireland",5,22,3,23,8,45,58,81,,,Unknown,,,,,, Available Upon Request,5,73 reviews,53.4284256,-9.3226023
+Tudor Lodge,"Lisheen McCurtain Hill, Clonakilty Ireland",5,22,3,3,1,14,8,13,,,201,200,,,,, Available Upon Request,4,23 reviews,51.621724,-8.896393
+OBriens Cashel Lodge,"Camus Road St. Patricks Rock, Cashel Ireland",5,22,3,3,14,32,79,13,,,201,200,,,,,95,5,216 reviews,52.511585,-7.889817
+Lake Avenue House,"Lakeview House Port Bawnboy, Ballyconnell H14 WV34 Ireland",5,22,3,3,67,35,13, Outdoor fireplace,,,201,200,,,,,70,5,63 reviews,54.12139,-7.67556
+Glendurragh House,"Millhouse Ballinagh Road, Cavan Ireland",5,22,3,3,2,52,13,54,,,201,204,200,,,, Available Upon Request,5,10 reviews,53.960495,-7.362192
+Marlinstown Court,"Old Dublin Road, Mullingar Ireland",5,22,3,3,4,58,13,57,,,201,200,,,,, Available Upon Request,5,128 reviews,53.52577,-7.3297592
+Red Setter Townhouse B&B,"Red Setter House 14 Dublin Street, Carlow Ireland",5,22,3,3,4,1,58,13,,,201,200,,,,, Available Upon Request,4.5,151 reviews,52.837557,-6.931448
+Dunaree,"Low Road, Bunratty Ireland",5,22,3,3,4,73,81,13,,,201,200,,,,, Available Upon Request,5,297 reviews,52.698429,-8.8112956
+Comeragh View Bed & Breakfast,"Ballyvoile - Stradbally, Dungarvan Ireland",5,22,3,3,4,2,58,13,,,Unknown,,,,,, Available Upon Request,5,60 reviews,52.090485,-7.627665
+The Wild Atlantic Lodge,"Main Street Ballyvaughan, Co. Clare, Ballyvaughan H91 HD90 Ireland",5,22,3,3,4,43,32,2,,,Unknown,,,,,,100,4.5,407 reviews,52.867043,-8.755825
+Newlands Lodge,"Kells Rd Newlands, Kilkenny Ireland",5,22,3,3,4,91,58,13,,,201,200,,,,, Available Upon Request,5,578 reviews,52.541013,-7.272461
+Ashmore House B&B,"John St, Cashel ROI Ireland",5,22,3,3,4,13,47,92,,,201,200,,,,, Available Upon Request,4.5,155 reviews,52.515598,-7.886657
+Dromid Hostel,"Cillin Liath Maistir Gaoithe, Waterville Ireland",5,22,3,3,36,32,79,58,,,200,,,,,,50,4.5,18 reviews,52.649909,-7.21104
+Barrs B&B,"Carnagarve, Moville ROI Ireland",5,22,3,3,23,58,13,57,,,201,205,,,,, Available Upon Request,5,40 reviews,55.191281,-7.041766
+Lough Owel Lodge,"Lough Owel Lodge Lough Owel Lodge Lough Owel Lodge Culleenmore, Mullingar 0000 Ireland",5,22,3,3,23,31,13,,,,201,200,,,,, Available Upon Request,5,110 reviews,53.53923,-7.344899
+Oakdale Manor,"Convent Road, Claremorris Ireland",5,22,3,3,1,13,89,57,,,Unknown,,,,,, Available Upon Request,5,33 reviews,53.6234595,-9.2066896
+Ashfield House,"Neale Road, Cong Ireland",5,22,3,4,32,33,58,81,,,201,200,,,,, Available Upon Request,5,83 reviews,53.616455,-9.223313
+Nolans B&B,Kilkee Ireland,5,24,3,3,4,8,33,13,,,Unknown,,,,,, Available Upon Request,4.5,70 reviews,52.679167,-9.644167
+Claremont House,"7 Claremont Villas Glenageary, Dun Laoghaire Ireland",5,24,3,3,35,58,13,,,,Unknown,,,,,,110,3.5,28 reviews,53.2830059,-6.1264028
+Caseys Hotel,"The Village, Glengarriff Ireland",5,24,3,3,1,32,58,81,,,201,200,,,,,110,4.5,248 reviews,51.7501967,-9.5499762
+Katie OConnors Holiday Hostel,"50 Frances Street, Kilrush Ireland",5,24,3,3,14,58,13,57,,,Unknown,,,,,, Available Upon Request,4,17 reviews,52.6369945,-9.4870069
+Adare Country House,"Adare Village, Adare Ireland",5,24,3,3,4,58,13,47,,,201,200,,,,, Available Upon Request,5,491 reviews,52.5636631,-8.7923958
+Adare Country House,"Adare Village, Adare Ireland",5,24,3,3,4,58,13,47,,,201,200,,,,, Available Upon Request,5,491 reviews,52.5636631,-8.7923958
+Rivers Edge Bed & Breakfast,Glengarriff P75 VK83 Ireland,5,24,3,3,4, Complimentary instant cofffee,58,13,,,Mountain view,201,,,,,92,5,8 reviews,53.26195,-9.07891
+Fernroyd House B&B,"Fernroyd 4 ODonovan Rossa Road, Cork Ireland",5,24,3,3,4,23,13,,,,201,200,,,,, Available Upon Request,5,"1,213 reviews",51.894663,-8.498308
+Avonmore House,"Avonmore House South Abbey, Youghal P36 AT18 Ireland",5,24,3,3,23,12, Adults only,58,,,201,200,,,,, Available Upon Request,5,15 reviews,53.018835,-6.265913
+St. Bridgets B & B,"Saint Bridgets Cockhill Road, Buncrana Ireland",5,24,3,3,23,8,58,13,,,201,,,,,,85,4.5,50 reviews,55.140368,-7.450402
+Woodlands Country House,"Woodlands House Killineirin, Gorey Ireland",5,31,52,13,,,,,,,201,,,,,, Available Upon Request,5,49 reviews,52.669952,-6.290188
+Tallaght Cross Hotel,"Tallaght Cross West Tallaght Cross Hotel BelgardS Square West, Tallaght D24 VX61 Ireland",5,3,1,21,62,83,13,87,,,Mountain view, City view,201,,,,129,5,25 reviews,53.29272,-6.373439
+Connemara Lake Hotel,"Market Street, Oughterard 1000 Ireland",5,3,4,1,21,32,57,,,,201,200,,,,, Available Upon Request,4.5,167 reviews,53.427585,-9.324626
+Mulcahys Clonmel,"47 Gladstone Street, Clonmel Ireland",6,3,1,75,66,2,62,81,,,201,,,,,,90,3.5,91 reviews,52.3534294,-7.7017236
+Oystercatcher Lodge,"Market Square, Carlingford Ireland",6,32,33,63,58,13,57,38,,,201,200,,,,, Available Upon Request,4,91 reviews,54.0410801,-6.1865063
+Evergreen House,"The Strand, Youghal Ireland",6,13,47,57,,,,,,,Unknown,,,,,, Available Upon Request,2,55 reviews,51.95,-7.850556
+Rougey Lodge,"Main Street, Bundoran Ireland",6,24,3,14,51,40,79,58,,,Unknown,,,,,,60,4.5,34 reviews,54.4810049,-8.2722434
+Ilenroy House,"Ilenroy House 10 North Street, Skibbereen Ireland",7,4,8,32,45,13,,,,,Unknown,,,,,,95,4.5,53 reviews,51.551439,-9.264551
+Walshs Bridge Inn,"Main Street, Newport Ireland",7,3,1,14,72,35,62,58,,,201,,,,,, Available Upon Request,4,45 reviews,53.8848021,-9.5466736
+Myles Creek,"OCurry Street, Kilkee Ireland",7,3,1,36,44,35,62,13,,,201,204,200,205,,,99,3,53 reviews,52.678916,-9.6482718
+The Cosy Cottage,"The Cosy Cottage Bath Terrace, Moville Ireland",7,24,3,4,51,32,35,13,,,201,200,,,,,90,4.5,64 reviews,55.191281,-7.041766
+Belvedere House,"Belvedere House Newry Street, Carlingford Ireland",7,24,3,4,51,32,13,96,,,201,,,,,,104,4.5,191 reviews,54.042229,-6.187181
+Tinsley House B&B,"The Square, Cahir Ireland",7,24,3,3,40,58,13,100,,,201,200,,,,, Available Upon Request,4,51 reviews,52.3748438,-7.9240743
+The Waterfront Hotel,"The Square, Baltimore Co. Cork, Baltimore Ireland",7,24,3,1,35,85,58,81,,,203,201,,,,, Available Upon Request,4.5,165 reviews,51.4828101,-9.3748621
+Aherlow House B&B,"Rocklands Castlebar, Castlebar Ireland",8,2,,,,,,,,,Unknown,,,,,, Available Upon Request,5,1 review,53.8327073,-9.2734482
+Rathaldron Lodge,"Rathaldron Road, Navan Ireland",8,33,45,,,,,,,,Unknown,,,,,,90,5,2 reviews,53.6690334,-6.718426254
+Scenic Drive Bed and Breakfast,"Pontoon Road, Foxford Ireland",13,,,,,,,,,,Unknown,,,,,, Available Upon Request,4,1 review,53.862658,-9.297048
+The Marker Hotel,"Grand Canal Square Docklands, Dublin 2 Ireland",15,3,9,11,1,14,40,63,,,201,204,,,,, Available Upon Request,4.5,"4,639 reviews",53.3433127,-6.238622685
+Fennessys Hotel,"32 Gladstone Street, Clonmel Ireland",15,3,4,77,70,69,71, Photo copier / fax In business centre,,,Mountain view, City view,201,,,,77,3.5,66 reviews,52.3534294,-7.7017236
+Maldron Hotel Dublin Airport,"Dublin Airport, Co. Dublin, Ireland, Cloghran K67 T6P6 Ireland",19,3,1,40,63,61, 24-hour security,58,,,201,200,,,,,129,4,"1,803 reviews",53.425798,-6.256756
+Maldron Hotel Dublin Airport,"Dublin Airport, Co. Dublin, Ireland, Cloghran K67 T6P6 Ireland",19,3,1,40,63,61, 24-hour security,58,,,201,200,,,,,129,4,"1,803 reviews",53.425798,-6.256756
+Dublin Skylon Hotel,"27 Upper Drumcondra Road, Dublin D09 V1Y2 Ireland",19,3,1,71,63,61, 24-hour security,58,,,201,200,,,,,118,4,"2,131 reviews",53.3794576,-6.2665362
+The Beacon,"Beacon Court Sandyford, Sandyford 18 Ireland",19,3,11,1,63,61,79,58,,,201,204,,,,, Available Upon Request,4.5,"1,650 reviews",53.269008,-6.226709
+Hyatt Centric The Liberties Dublin,"Dean Street The Liberties, Dublin D08 W3X7 Ireland",19,3,11,1,44, Walking tours,69,73,,,Mountain view, City view,201,204,200,,190,4.5,327 reviews,53.339276,-6.277917
+Crowne Plaza Dublin Airport,"Northwood Park, Santry Ireland",19,3,11,1,40,63,61,58,,,202,201,204,200,,, Available Upon Request,4.5,"2,371 reviews",53.401688,-6.237113
+Holiday Inn Express Dublin Airport,"Northwood Park, Santry Demesne, Santry N/A Ireland",19,3,4,40,63,62,58,81,,,201,200,,,,, Available Upon Request,4,156 reviews,52.666037,-8.631584
+Maynooth Campus Conference & Accommodation,"Parson Street, Maynooth Ireland",19,3,3,23,62,58, Chapel / shrine,13,,,Unknown,,,,,,82,4,95 reviews,53.3771526,-6.5961772
+Commodore Hotel,"Westbourne Place, Cobh Ireland",19,3,1,63,61,13,87,99,,,Unknown,,,,,,75,4,761 reviews,51.8495022,-8.29669
+Hilton Dublin Airport,"Northern Cross, Malahide Road, Dublin 17 Ireland",19,3,11,1,85,69,40,61,,,201,204,200,,,, Available Upon Request,4,"2,951 reviews",53.33928,-6.281314
+Hilton Dublin,"Charlemont Place, Dublin D02 A893 Ireland",19,3,11,1,14,14,97,85,,,Mountain view,201,,,,, Available Upon Request,4,"2,467 reviews",53.3309263,-6.2588557
+Travelodge Dublin Airport Swords,"Travelodge Pinnock Hill Roundabout, Swords Ireland",19,3,21,30,40,58, Currency exchange,87,,,201,,,,,, Available Upon Request,3,"1,324 reviews",53.449278,-6.223668
+Travelodge Dublin Airport Swords,"Travelodge Pinnock Hill Roundabout, Swords Ireland",19,3,21,30,40,58, Currency exchange,87,,,201,,,,,, Available Upon Request,3,"1,324 reviews",53.449278,-6.223668
+Marlin Hotel Dublin,"11 Bow Lane East St Stephens Green, Dublin D02 YE24 Ireland",17,3,11,1,40,63,62, 24-hour security,,,City view,201,204,,,, Available Upon Request,4.5,521 reviews,53.33928,-6.281314
+Emmet House Bed & Breakfast,"Emmet Square, Birr Ireland",17,3,4,33,45,60,84,95,85,79,201,200,,,,,81,5,151 reviews,53.0961556,-7.9106456
+The Metropole Hotel,"MacCurtain Street, Cork T23 EEC3 Ireland",17,3,9,11,21,73,63,61,,,202,201,204,200,,,93,4.5,"1,090 reviews",51.901451,-8.467817
+Dinn Ri Hotel,"Tullow St., Carlow Ireland",17,3,53,33,45,58,13,87,,,201,,,,,,99,4,148 reviews,52.8360267,-6.9248285
+Hard Rock Hotel Dublin,"Fashion House 18 Exchange Street Upper Temple Bar, Dublin D08 AV24 Ireland",17,3,3,1,21,,,,,,201,204,,,,,269,5,89 reviews,52.668707,-8.622011
+Crottys Pub B & B,"Market Square, Kilrush Ireland",17,3,3,4,1,62,58,13,,,201,,,,,, Available Upon Request,4,240 reviews,52.6380794,-9.4840777
+Grand Central Hotel,"Main Street, Bundoran Ireland",17,3,10,4,14,43,73,58,,,201,,,,,,89,3,465 reviews,54.4810049,-8.2722434
+Ferry House Bed and Breakfast,"15 Clarinda Park North Dun Laoghaire, Dun Laoghaire Co. Dublin Ireland",17,20,3,3,4,8,31,13,,,201,,,,,, Available Upon Request,4.5,122 reviews,53.2890453,-6.130067548
+Bank House & Bar,"Bank House Main Street, Bundoran F94 V4K0 Ireland",17,3,4,12,66,35,85,58,,,201,200,,,,,90,4.5,114 reviews,51.838633,-9.901027
+Befanis Guesthouse,"Befanis 6 Sarsfield Street, Clonmel Ireland",17,24,3,3,4,8,81,13,,,201,,,,,,90,4.5,68 reviews,52.3527414,-7.701246787
+The Townhouse Tullamore,"High Street, Tullamore Ireland",17,24,3,1,8,62,58,13,,,201,200,,,,, Available Upon Request,3.5,31 reviews,53.2744374,-7.4927798
+Hotel Riu Plaza The Gresham Dublin,"23 Upper OConnell Street, Dublin D01 C3W7 Ireland",16,3,1,73,61,62, 24-hour security,58,,,201,204,200,,,, Available Upon Request,4,"2,056 reviews",53.33928,-6.281314
+Ballina Manor Hotel,"Barrett Street The Moy Ridge9 & Salmon Weir, Ballina F26 HY84 Ireland",16,3,1,33,45,69,71,63,,,City view,201,204,200,,, Available Upon Request,4,645 reviews,53.29461,-6.143112
+The Gibson Hotel,"The Point Village, Dublin DUBLIN 3 Ireland",16,3,11,1,70,71,63,61,,,201,204,200,,,,159,4.5,"5,857 reviews",53.381856,-6.410903
+Park Inn by Radisson Shannon Airport,"Shannon Airport, Shannon Ireland",16,3,11,1,71,63,61, Solarium,,,201,200,,,,, Available Upon Request,4,"1,491 reviews",52.69960575,-8.920721565
+Templemore Arms Hotel,"High Street, Templemore Ireland",16,3,44,70,35,62,58,13,,,202,201,200,,,,120,4.5,117 reviews,52.794722,-7.833889
+Red Cow Moran Hotel,"Naas Road Red Cow Complex, Clondalkin Ireland",20,3,1,71,63,61,58, Currency exchange,,,201,204,200,,,, Available Upon Request,4,"2,749 reviews",53.317744,-6.367551
+Red Cow Moran Hotel,"Naas Road Red Cow Complex, Clondalkin Ireland",20,3,1,71,63,61,58, Currency exchange,,,201,204,200,,,,99,4,"2,749 reviews",53.317744,-6.367551
+Clayton Hotel Liffey Valley,"Liffey Valley Complex Fonthill Road on the M50/N4 intersection at Liffey Valley, Clondalkin 22 Ireland",20,3,9,11,1," ""Childrens playground""", Indoor play area for children,40,,,201,204,200,,,,109,4,"3,480 reviews",52.476835,-7.040513
+Dillanes Farmhouse B&B,"Doonard, Listowel Road, Tarbert Ireland",20,3,3,58,,,,,,,Unknown,,,,,, Available Upon Request,2.5,11 reviews,52.56060955,-9.38206857
+Kilkee Bay Apartments,"Kilrush Road, Kilkee Ireland",3,1,35,2,13,,,,,,Unknown,,,,,, Available Upon Request,3.5,3 reviews,52.683225,-9.644029
+"Barrons Cafe, Takeaway and B&B","Lower Main Street, Moville F93X7FN Ireland",3,4,21,2,13,,,,,,Unknown,,,,,,70,4,14 reviews,55.191281,-7.041766
+Byrnes Restaurant and Accommodation,"Main Street, Ennistymon Ireland",21,34,13,,,,,,,,201,204,,,,, Available Upon Request,4,55 reviews,52.9433786,-9.2924576
+Island View House,"Knockanroe, Castletownbere Ireland",22,3,3,4,14,51,13,47,,,201,200,,,,,59,4,115 reviews,51.6520261,-9.9110434
+Carragh Lodge,"Station Road Rosslare Harbour, Rosslare Ireland",22,3,3,23,12,8,58,13,,,201,,,,,, Available Upon Request,4.5,19 reviews,52.2527565,-6.3351365
+Shanowen Holiday Apartments,"Shanowen Road, Santry D9 Ireland",22,13,54,47,57,,,,,,Unknown,,,,,, Available Upon Request,3,10 reviews,53.3888801,-6.2534962
+Rosslare Strand B&B,"Grange Road, Rosslare Ireland",23,12,8,13,,,,,,,Unknown,,,,,, Available Upon Request,Unknown,Unknown,52.2759883,-6.3978463
+ODwyers The Villa,Waterville Ireland,24,3,1,33,45,62,13,89,,,201,200,,,,, Available Upon Request,4,44 reviews,51.8271274,-10.1718452
+Town Clock B&B,"6 Upper Main Street, Buncrana Ireland",24,3,23,8,45,35,2,13,,,Unknown,,,,,, Available Upon Request,4.5,39 reviews,55.1353622,-7.4542748
+Lismar Guest House,"8-9 Stapleton Place, Dundalk Ireland",24,3,3,58,13,92,99,57,,,201,200,,,,,89,3.5,82 reviews,53.9985577,-6.4061097
+An Sugan,"41 Wolfe Tone Street Co.Cork, Clonakilty 00000 Ireland",24,3,3,21,13,,,,,,201,,,,,, Available Upon Request,4,135 reviews,51.6231743,-8.8858152
+The Westbury,"Balfe Street, Dublin D02 R972 Ireland",25,3,11,1,35,69,73,63,,,202,201,204,,,,296,4.5,"5,107 reviews",53.341107,-6.261504
+Rosehill B&B,"Rosehill, Rosslare Ireland",26,37,55,78, Hair dryer,,,,,,Unknown,,,,,, Available Upon Request,5,3 reviews,52.26218885,-6.381555205
+Aran Islands Camping & Glamping,"Frenchmans 12, Inis Mor Aran Islands, Co. Galway, Province of Connacht H91 F65P Ireland",3,12,32,79,13, Picnic area,57,82,,,201,200,,,,, Available Upon Request,5,234 reviews,53.350127,-6.253281
+The Blue Door House,"Renard Road, Cahersiveen V23 V274 Ireland",5,3,4,14,Family Friendly,,,,,,Suites,200,,,,, Available Upon Request,Unknown,Unknown,51.94648,-10.229218
