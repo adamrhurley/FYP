@@ -1,0 +1,6 @@
+200 = Family rooms
+201 = Non-Smoking rooms
+202 = Bridal suite
+203 = Ocean view
+204 = Suites
+205 = Smoking rooms available

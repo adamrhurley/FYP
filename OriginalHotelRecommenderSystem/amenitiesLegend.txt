@@ -1,0 +1,118 @@
+Amenities
+
+0 = Unknown
+1 = Bar/lounge
+2 = Children Activities (Kid / Family Friendly)
+3 = WiFi 
+4 = Breakfast
+5 = Free Parking
+6 = Free private parking nearby
+7 = Free public parking nearby
+8 = Golf course
+9 = Pool
+10 = Sauna
+11 = Fitness Centre with Gym / Workout Room
+12 = Beach
+13 = Non-smoking-hotel
+14 = Bicycle rental
+15 = Paid private parking nearby
+16 = Paid public parking on-site
+17 = Paid public parking nearby
+18 = Electric vehicle charging station
+19 = Paid private parking on-site
+20 = Parking
+21 = Restaurant
+22 = Secured Parking
+23 = Special diet menus
+24 = Street parking
+25 = Valet parking
+26 = Wake-up service / alarm clock
+27 = Interconnected rooms available
+28 = Shuttle bus service
+29 = Hot bath
+30 = Pets Allowed ( Dog / Pet Friendly )
+31 = Tennis court
+32 = Hiking
+33 = Horseback riding
+34 = Wine / champagne
+35 = Babysitting
+36 = Game room
+37 = Extra long beds
+38 = Iron
+39 = Casino and Gambling
+40 = Airport transportation
+41 = Kids meals
+42 = Coffee shop
+43 = Diving
+44 = Evening entertainment
+45 = Fishing
+46 = Beach/Pool towels
+47 = Shared lounge / TV area
+48 = Yoga
+49 = Changing rooms
+50 = Vending machine
+51 = Canoeing
+52 = Executive lounge access
+53 = Snack bar
+54 = Shared kitchen
+55 = Bath / shower
+56 = Coffee / tea maker
+57 = Laundry service
+58 = Baggage storage
+59 = Clothes dryer
+60 = Books
+61 = Conference facilities
+62 = Meeting rooms
+63 = Business Centre
+64 = Badminton
+65 = Banquet room
+66 = Bowling
+67 = Board games / puzzles
+68 = Boating
+69 = Highchairs available
+70 = Nightclub / DJ
+71 = Taxi service
+72 = Darts
+73 = Car hire
+74 = Fitness classes
+75 = Billiards
+76 = Shared bathroom
+77 = Entertainment staff
+78 = Complimentary toiletries
+79 = BBQ facilities
+80 = Salon
+81 = Newspaper
+82 = Self-serve laundry
+83 = Concierge
+84 = DVDs
+85 = Childrens television networks
+86 = Snorkelling
+87 = 24-hour front desk
+88 = Squash
+89 = Outdoor furniture
+90 = Sun terrace
+91 = Mini golf
+92 = Private check-in / check-out
+93 = Archery
+94 = Spa
+95 = Music for children
+96 = Washing machine
+97 = Kids stay free
+98 = Kids club
+99 = Dry cleaning
+100 = Express check-in / check-out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
